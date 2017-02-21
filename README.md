@@ -1,0 +1,2 @@
+# AndroidResourceCollector
+Android资源收集
