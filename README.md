@@ -654,8 +654,38 @@ Android资源收集
 					</li>
 				</ul>
 			</li>
+			
+			<li>Android 开源项目分类汇总
+				<ul>
+					<li>git1--->https://github.com/Trinea/android-open-project
+					</li>
+					<li>git2--->https://github.com/Trinea/android-common
+					</li>
+					<li>git3--->https://github.com/Trinea/android-open-project
+					</li>
+				</ul>
+			</li>
+			
+			<li>Android 开源项目源码解析
+				<ul>
+					<li>git--->http://a.codekk.com/
+					</li>
+				</ul>
+			</li>
+			
+			
+			
+			
 		</ul>
-	</li>		
+	</li>	
+	
+	<li>一些图标网站
+		<ul>
+			<li>git1--->http://www.easyicon.net/566311-Minus_Circle_Green_icon.html</li>
+			<li>git2--->http://findicons.com/</li>
+			<li>git3--->http://www.jianshu.com/p/53a7da454057</li>
+		</ul>
+	</li>
 	
 	<li>大神、著名公司主页	
 		<ul>
