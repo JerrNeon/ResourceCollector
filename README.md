@@ -234,6 +234,9 @@
 * 带漂浮动画自定义控件	
 	* [文字FloatingText] (https://github.com/UFreedom/FloatingText)
 	* [图片FloatingView] (https://github.com/UFreedom/FloatingView)
+* 实现1-7阶贝塞尔曲线的形成动画
+	* [BezierMaker] (https://github.com/venshine/BezierMaker)
+	
 
 ### 开发框架和开源项目
 * Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等	
