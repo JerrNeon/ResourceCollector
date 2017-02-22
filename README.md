@@ -148,6 +148,7 @@
 * 与adapter有关
 	* [Android复杂的列表视图新写法] (https://github.com/drakeet/MultiType/blob/master/README.md)
 	* [RecyerView适配器封装] (https://github.com/CymChad/BaseRecyclerViewAdapterHelper)	
+	
 ### 布局相关
 * MaterialDesign风格的ViewPager
 	* [MaterialViewPager] (https://github.com/florent37/MaterialViewPager)
