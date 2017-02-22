@@ -7,8 +7,6 @@
   * [引用] (http://www.jianshu.com/p/0c91a9e810b4)
   * [删除] (http://blog.csdn.net/liu__520/article/details/52801139)
   * [查找] (https://js.coach/react-native/react-native-admob)
-* [react-native-spinkit] (https://github.com/maxs15/react-native-spinkit)
-* [lottie-react-native] (https://github.com/airbnb/lottie-react-native)
 
 ### 学习
 * [ReactNative入门] (http://www.jianshu.com/p/319152b49611)
