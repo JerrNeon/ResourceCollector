@@ -52,6 +52,7 @@
 	* [加载框] (https://github.com/Kaopiz/KProgressHUD)
 	* [圆角button点击后变成加载button] (https://github.com/dmytrodanylyk/circular-progress-button)
 	* [水平进度条] (https://github.com/daimajia/NumberProgressBar)
+	* [进度条来显示加载图片的进度] (https://github.com/peng8350/LoadingProgress/blob/master/README_CN.md)
 * 表单验证
 	* [android-edittext-validator] (https://github.com/vekexasia/android-edittext-validator)
 * 标签云
@@ -146,7 +147,7 @@
 	* [ShimmerRecyclerView] (https://github.com/sharish/ShimmerRecyclerView)
 * 与adapter有关
 	* [Android复杂的列表视图新写法] (https://github.com/drakeet/MultiType/blob/master/README.md)
-	
+	* [RecyerView适配器封装] (https://github.com/CymChad/BaseRecyclerViewAdapterHelper)	
 ### 布局相关
 * MaterialDesign风格的ViewPager
 	* [MaterialViewPager] (https://github.com/florent37/MaterialViewPager)
@@ -227,6 +228,8 @@
 ### 动画
 * lottie高级动画库	
 	* [lottie] (https://github.com/airbnb/lottie-android/blob/master/README.md)
+* Activity跳转动画
+	* [Material-Animations] (https://github.com/lgvalle/Material-Animations)
 * 一个带伸缩位移旋转动画的购物车按钮	
 	* [AnimShopButton] (https://github.com/mcxtzhang/AnimShopButton#)
 * 图片波浪加载动画	
@@ -236,7 +239,10 @@
 	* [图片FloatingView] (https://github.com/UFreedom/FloatingView)
 * 实现1-7阶贝塞尔曲线的形成动画
 	* [BezierMaker] (https://github.com/venshine/BezierMaker)
-	
+* View动画库	
+	* [AndroidViewAnimations] (https://github.com/daimajia/AndroidViewAnimations)
+* 搜索框动画库	
+	* [JJSearchViewAnim] (https://github.com/android-cjj/JJSearchViewAnim)	
 
 ### 开发框架和开源项目
 * Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等	
