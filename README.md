@@ -50,7 +50,7 @@
 	* [图标制作] (https://romannurik.github.io/AndroidAssetStudio/icons-generic.html#source.type=image&source.space.trim=1&source.space.pad=0&size=24&padding=8&color=33b5e5%2C100&name=ic_icon_cdgx_on)
 * 加载框进度条
 	* [加载框] (https://github.com/Kaopiz/KProgressHUD)
-	* [圆角button] (https://github.com/dmytrodanylyk/circular-progress-button)
+	* [圆角button点击后变成加载button] (https://github.com/dmytrodanylyk/circular-progress-button)
 	* [水平进度条] (https://github.com/daimajia/NumberProgressBar)
 * 表单验证
 	* [android-edittext-validator] (https://github.com/vekexasia/android-edittext-validator)
