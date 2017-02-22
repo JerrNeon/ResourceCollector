@@ -93,7 +93,9 @@
 	* 滑动滑块验证
 		* [SwipeCaptcha] (https://github.com/mcxtzhang/SwipeCaptcha)	
 * jOOR反射封装		
-	* [jOOR] (https://github.com/jOOQ/jOOR)
+	* [jOOR] (https://github.com/jOOQ/jOOR)	
+* 最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment
+	* [GuideView] (https://github.com/binIoter/GuideView)	
 
 ### 仿IOS控件	
 * 开关
