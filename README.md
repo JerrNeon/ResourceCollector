@@ -53,6 +53,7 @@
 	* [圆角button点击后变成加载button] (https://github.com/dmytrodanylyk/circular-progress-button)
 	* [水平进度条] (https://github.com/daimajia/NumberProgressBar)
 	* [进度条来显示加载图片的进度] (https://github.com/peng8350/LoadingProgress/blob/master/README_CN.md)
+	* [一款漂亮简洁的广告计时组件] (https://github.com/flyou/AdCountView)
 * 表单验证
 	* [android-edittext-validator] (https://github.com/vekexasia/android-edittext-validator)
 * 标签云
