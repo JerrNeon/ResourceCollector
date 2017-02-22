@@ -290,7 +290,7 @@
 	* [findicons] (http://findicons.com/)
 	* [前端工程师必备实用网站] (http://www.jianshu.com/p/53a7da454057)
 
-### <a href="A1" name="1A">大神、著名公司主页</a>	
+### <a href="#A1" name="1A">大神、著名公司主页</a>	
 * [张鸿洋] (https://github.com/hongyangAndroid)
 	* [博客] (http://blog.csdn.net/lmj623565791?viewmode=contents)
 * [贾鹏辉] (http://www.devio.org/)
