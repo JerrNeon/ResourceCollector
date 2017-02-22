@@ -195,7 +195,7 @@
 * 可收缩展开的TextView
 	* [ExpandableTextView] (https://github.com/Carbs0126/ExpandableTextView)
 * Android 自定义View合集
-	* [博客] (http://www.jianshu.com/p/dc63a4b636fa)
+	* [博客] (http://www.jianshu.com/p/a5040fcfe8cb)
 	
 ### Activity和Fragment	
 * 为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题
