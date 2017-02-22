@@ -111,8 +111,8 @@
 * 3DTouch(shortcut)
 	* [shortbread] (https://github.com/MatthiasRobbers/shortbread)
 	
-###与媒体有关
-*图片相关处理(拍照、相册、裁剪、压缩)
+### 与媒体有关
+* 图片相关处理(拍照、相册、裁剪、压缩)
 	* 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
 		* [TakePhoto] (https://github.com/crazycodeboy/TakePhoto)
 	* 裁剪
