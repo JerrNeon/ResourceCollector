@@ -1,6 +1,26 @@
 # AndroidResource
 
-### 网络请求框架
+***
+## 目录
+* [网络请求框架] (#网络请求框架)
+* [Rx系列] (#rx系列)
+* [常用框架] (#常用框架)
+* [常用控件] (#常用控件)
+* [仿IOS控件] (#仿ios控件)
+* [与媒体有关] (#与媒体有关)
+* [RecyerView、ListView、GridView、ScrollView] (#recyerviewlistviewgridviewscrollview)
+* [布局相关] (#布局相关)
+* [As插件] (#as插件)
+* [自定义View系列] (#自定义view系列)
+* [Activity和Fragment] (#activity和fragment)
+* [工具类] (#工具类)
+* [动画] (#动画)
+* [开发框架和开源项目] (#开发框架和开源项目)
+* [优质资源查找和学习site] (#优质资源查找和学习site)
+* [大神、著名公司主页] (#大神著名公司主页)
+
+***
+### [网络请求框架](#androidresource)
 * [Retorfit] (https://github.com/square/retrofit)
 * [OkGo] (https://github.com/jeasonlzy/okhttp-OkGo)
 	* [廖子尧] (https://github.com/jeasonlzy)
@@ -9,7 +29,7 @@
 	* [拦截并记录所有的HTTP请求与响应] (https://github.com/jgilfelt/chuck)
 	* [Bridge是一个简单但是强大的HTTP网络操作库。提供链式调用的API，为了最大的兼容性和最快的速度，用 Java/Android的URLConnection类实现] (https://github.com/afollestad/bridge)
 
-### Rx系列
+### [Rx系列](#androidresource)
 * [RxJava] (https://github.com/ReactiveX/RxJava)
 	* [文档] (https://github.com/mcxiaoke/RxDocs)
 	* [文章] (https://gold.xitu.io/post/57d8b4b0c4c97100610509c6)		
@@ -17,7 +37,7 @@
 * [RxLifecycle] (https://github.com/trello/RxLifecycle)
 
 
-### 常用框架
+### [常用框架](#androidresource)
 * 注解
 	* [ButterKnife] (https://github.com/JakeWharton/butterknife/)
 		* [插件] (https://github.com/avast/android-butterknife-zelezny)
@@ -38,7 +58,7 @@
 * lambda表达式
 	* [retrolambda] (https://github.com/evant/gradle-retrolambda)
 	
-### 常用控件
+### [常用控件](#androidresource)
 * Banner控件
 	* [XBanner] (https://github.com/xiaohaibin/XBanner)
 	* [Android-ConvenientBanner] (https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
@@ -99,7 +119,7 @@
 * 最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment
 	* [GuideView] (https://github.com/binIoter/GuideView)	
 
-### 仿IOS控件	
+### [仿IOS控件](#androidresource)	
 * 开关
 	* [SlideSwitch] (https://github.com/Leaking/SlideSwitch)
 * 底部弹出框
@@ -115,7 +135,7 @@
 * 3DTouch(shortcut)
 	* [shortbread] (https://github.com/MatthiasRobbers/shortbread)
 	
-### 与媒体有关
+### [与媒体有关](#androidresource)
 * 图片相关处理(拍照、相册、裁剪、压缩)
 	* 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
 		* [TakePhoto] (https://github.com/crazycodeboy/TakePhoto)
@@ -135,7 +155,7 @@
 	* [图片] (https://github.com/linglongxin24/VRDevelopImage)
 	* [视屏] (https://github.com/linglongxin24/VRDevelopVideo)
 
-### RecyerView、ListView、GridView、Scrollview	
+### [RecyerView、ListView、GridView、ScrollView](#androidresource)	
 * Recycler和ViewPager结合
 	* [RecyclerViewPager] (https://github.com/lsjwzh/RecyclerViewPager)
 * 常用的RecyclerView的各种需求封装进库
@@ -150,7 +170,7 @@
 	* [Android复杂的列表视图新写法] (https://github.com/drakeet/MultiType/blob/master/README.md)
 	* [RecyerView适配器封装] (https://github.com/CymChad/BaseRecyclerViewAdapterHelper)	
 	
-### 布局相关
+### [布局相关](#androidresource)
 * MaterialDesign风格的ViewPager
 	* [MaterialViewPager] (https://github.com/florent37/MaterialViewPager)
 * 快速实现滑动隐藏标题栏和导航栏
@@ -173,7 +193,7 @@
 * 一个弧形的抽屉导航(侧滑)
 	* [ArcNavigationView] (https://github.com/rom4ek/ArcNavigationView)
 	
-### As插件
+### [As插件](#androidresource)
 * 实体类parcelable序列化插件
 	* [android-parcelable-intellij-plugin] (https://github.com/mcharmas/android-parcelable-intellij-plugin)
 * 转换value中Strings中文为其他语言的插件
@@ -187,7 +207,7 @@
 * 批量地压缩你项目中的图片插件
 	* [TinyPngPlugin] (https://github.com/waynell/TinyPngPlugin/blob/master/README.zh-cn.md)
 
-### 自定义View系列
+### [自定义View系列](#androidresource)
 * 一个功能强大的TextView，可以满足日常大部分布局方式(常用于个人中心)
 	* [SuperTextView] (https://github.com/lygttpod/SuperTextView)
 * 显示富文本
@@ -202,7 +222,7 @@
 * Android 自定义View合集
 	* [博客] (http://www.jianshu.com/p/a5040fcfe8cb)
 	
-### Activity和Fragment	
+### [Activity和Fragment](#androidresource)	
 * 为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题
 	* [Fragmentation] (https://github.com/YoKeyword/Fragmentation)
 * 设置不同主题
@@ -212,7 +232,7 @@
 * 打不死的小强,永不crash的Android	
 	* [Cockroach] (https://github.com/android-notes/Cockroach)
 
-### 工具类	
+### [工具类](#androidresource)	
 * 常用合集
 	* [Lazy] (https://github.com/l123456789jy/Lazy)
 	* [AndroidUtils] (https://github.com/WuXiaolong/AndroidUtils)
@@ -227,7 +247,7 @@
 * 简化和JSON的交互	
 	* [ason] (https://github.com/afollestad/ason)
 
-### 动画
+### [动画](#androidresource)
 * lottie高级动画库	
 	* [lottie] (https://github.com/airbnb/lottie-android/blob/master/README.md)
 * Activity跳转动画
@@ -246,7 +266,7 @@
 * 搜索框动画库	
 	* [JJSearchViewAnim] (https://github.com/android-cjj/JJSearchViewAnim)	
 
-### 开发框架和开源项目
+### [开发框架和开源项目](#androidresource)
 * Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等	
 	* [AndroidRapidLibrary] (https://github.com/lidong1665/AndroidRapidLibrary)
 * 一个整合了大量主流开源项目的Android Mvp快速搭建框架
@@ -258,7 +278,7 @@
 * Retrofit + Rxjava + okhttp开源项目	
 	* [LookLook] (https://github.com/xinghongfei/LookLook)
 	
-### 优质资源查找和学习site	
+### [优质资源查找和学习site](#androidresource)	
 * 自定义View	
 	* [awesome-view] (https://github.com/xinghongfei/awesome-view)
 * Java的23种设计模式	
