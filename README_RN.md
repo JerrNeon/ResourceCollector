@@ -16,6 +16,7 @@
 * [Redux] (https://github.com/reactjs/redux)
   * [Redux 中文文档] (http://cn.redux.js.org/index.html)
 * [React Native 研究与实践] (https://github.com/crazycodeboy/RNStudyNotes)
+* [从 Android 到 React Native 开发] (https://gold.xitu.io/post/58ac5b4c8ac2474faab25d1c)
 * [React Native components, news, tools, and learning material] (https://github.com/jondot/awesome-react-native)
 
 ### RN常用第三方框架
