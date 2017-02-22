@@ -117,7 +117,8 @@
 * jOOR反射封装		
 	* [jOOR] (https://github.com/jOOQ/jOOR)	
 * 最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment
-	* [GuideView] (https://github.com/binIoter/GuideView)	
+	* [GuideView] (https://github.com/binIoter/GuideView)
+	* [带计数的输入框BufferTextInputLayout] (https://github.com/bufferapp/BufferTextInputLayout)
 
 ### [仿IOS控件](#androidresource)	
 * 开关
@@ -303,6 +304,11 @@
 	* [android-open-project] (https://github.com/Trinea/android-open-project)
 * Android开源项目源码解析	
 	* [codekk] (http://a.codekk.com/)
+* Android 优秀文章	
+	* [Android-注解详解] (http://blog.csdn.net/wzgiceman/article/details/53483665)
+	* [深入理解Android之Gradle] (http://blog.csdn.net/innost/article/details/48228651)
+	* [深入理解Android之AOP] (http://blog.csdn.net/innost/article/details/49387395)
+	* [阿里巴巴 JAVA 开发手册] (https://img.hacpai.com/file/2017/1/eb0998bac7664496b2f1af98e07b08e5-Java.pdf)
 * 一些图标网站	
 	* [easyicon] (http://www.easyicon.net/566311-Minus_Circle_Green_icon.html)
 	* [findicons] (http://findicons.com/)
