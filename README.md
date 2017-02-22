@@ -1,7 +1,5 @@
 # AndroidResource
 
-<a href="#1A" name="A1">大神主页</a>
-
 ### 网络请求框架
 * [Retorfit] (https://github.com/square/retrofit)
 * [OkGo] (https://github.com/jeasonlzy/okhttp-OkGo)
@@ -290,7 +288,7 @@
 	* [findicons] (http://findicons.com/)
 	* [前端工程师必备实用网站] (http://www.jianshu.com/p/53a7da454057)
 
-### <a href="#A1" name="1A">大神、著名公司主页</a>	
+### 大神、著名公司主页	
 * [张鸿洋] (https://github.com/hongyangAndroid)
 	* [博客] (http://blog.csdn.net/lmj623565791?viewmode=contents)
 * [贾鹏辉] (http://www.devio.org/)
