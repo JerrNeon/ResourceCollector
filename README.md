@@ -1,5 +1,4 @@
-# AndroidResourceCollector
-Android资源收集
+# AndroidResource
 
 <ul>
 	<li>
