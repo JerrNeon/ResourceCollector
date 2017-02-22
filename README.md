@@ -275,9 +275,14 @@
 
 ### 大神、著名公司主页	
 * [张鸿洋] (https://github.com/hongyangAndroid)
+	* [博客] (http://blog.csdn.net/lmj623565791?viewmode=contents)
+* [贾鹏辉] (http://www.devio.org/)
+* [wingjay] (https://github.com/wingjay)
 * [Jake Wharton] (https://github.com/JakeWharton)
 * [Square] (https://github.com/square)
 * [Google] (https://github.com/google)
 * [Alibaba] (https://github.com/alibaba)
+* [Some Famous Android Developers Information] (https://github.com/android-cn/android-dev-com)
+
 
 	
