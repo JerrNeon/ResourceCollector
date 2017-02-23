@@ -1,12 +1,13 @@
 # Android新特性、问题及AS
 
 ***
-## [AndroidSupportDesign兼容库] (#androidsupportdesign兼容库)
-## [6.0] (#60)
-## [7.0+] (#70)
-## [AndroidStudio] (#androidstudio)
-## [适配] (#适配)
-## [学习知识] (#学习知识)
+##目录
+* [AndroidSupportDesign兼容库] (#androidsupportdesign兼容库)
+* [6.0] (#60)
+* [7.0+] (#70)
+* [AndroidStudio] (#androidstudio)
+* [适配] (#适配)
+* [学习知识] (#学习知识)
 
 ***
 
@@ -33,7 +34,11 @@
 * Bottom Sheet实现底部菜单
 	* [使用Bottom Sheet实现底部菜单] (http://www.jianshu.com/p/1024ad202683)
 * TextInputLayout
-	* [Material Design 之 TextInputLayout和TextInputEditText - 依然饭特稀西 - 掘金专栏] (https://gold.xitu.io/post/58663bca570c3500688b5272)          
+	* [Material Design 之 TextInputLayout和TextInputEditText - 依然饭特稀西 - 掘金专栏] (https://gold.xitu.io/post/58663bca570c3500688b5272) 
+* Android UI(Switch和SwithcCompact)
+	* [Android UI(Switch)详解] (http://blog.csdn.net/qq_28057577/article/details/52261641)
+* BottomNavigationBar
+	* [UI-BottomNavigationBar-底部导航栏 - 简书] (http://www.jianshu.com/p/134d7847a01e)
                 
 
 ### [6.0] (#android新特性问题及as) 
@@ -83,9 +88,12 @@
 	* [Android-WebView在ScrollView中高度不稳定末尾有大段空白问题解决 - qq_32452623的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/qq_32452623/article/details/52304628)
 	* [还在用 Android 自带的 WebView 组件？太 Out 了！] (http://gold.xitu.io/entry/57bd8c25df0eea005c708667)
 	* [FinestWebView：可自定义的WebView] (http://www.jianshu.com/p/f88c723d3d87)
+* 优化
+	* [一些你需要知道的布局优化技巧] (http://blog.csdn.net/qq_17766199/article/details/52863741)
+	* [Android性能优化的方方面面] (http://www.jianshu.com/p/b3b09fa29f65)
 
 
-### {AndroidStudio] (#android新特性问题及as) 
+### [AndroidStudio] (#android新特性问题及as) 
 * 配置             
 	* [Android] (http://liukun.engineer/2016/04/10/Android-Studio-advanced-configuration/)
 	* [AndroidStudio入门之第三方引用 - 简书] (http://www.jianshu.com/p/f33a1f413ab3)
@@ -109,12 +117,15 @@
 	* [【译】我每周在构建Gradle时是如何节约出5小时的] (http://www.jianshu.com/p/f9b0592383b8)
 * 代码混淆和多渠道打包
 	* [Android Studio多渠道打包和代码混淆教程 - leeo1010的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/leeo1010/article/details/49903759)
+	* [写给Android开发者的混淆使用手册] (http://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483651&idx=1&sn=85f0d6c6a0f6c4f2ece97429f423c51c&chksm=ebeafe0cdc9d771a31344d0d6861e3b864bfe36d46652770aa522631eb0115a754e1be579d3b#rd)
+	* [proguard] (http://blog.csdn.net/yuhanghate/article/details/51656804)
+	* [AndroidStudio中代码混淆以及打包操作 - classTC的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/ttccaaa/article/details/47687241)
+	* [深入学习ProGuard之：ProGuard简介与android的应用] (https://gold.xitu.io/post/5854fbc98d6d810065a006c4)
 * 调试
 	* [Android 高效调试神器 JRebel] (http://blog.csdn.net/googdev/article/details/53288564)
 	* [Freeline] (https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
 * 签名
 	* [Android Gradle signing 编译打包apk的几种办法] (http://blog.csdn.net/ylbf_dev/article/details/52399083)
-
 
 ### [适配] (#android新特性问题及as)
 * autolayout适配
@@ -126,140 +137,17 @@
 
 
 ### [学习知识] (#android新特性问题及as) 
+* Android手势以及MotionEvent
+	* [Android手势以及MotionEvent] (http://blog.jiangtao.tech/2016/10/03/Android%E6%89%8B%E5%8A%BF%E4%BB%A5%E5%8F%8AMotionEvent/)
+* Framework
+	* [android/platform_frameworks_base] (https://github.com/android/platform_frameworks_base)
 * kotlin开发Android
 	* [Android开发必备知识：为什么说Kotlin值得一试] (http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/4000.html)
 * jar和aar
 	* [android中.aar文件与.jar文件的区别] (http://blog.csdn.net/justinnick/article/details/52421234)
-                    
-                    
-
-
-                    
-                    
-
-
-                    
-                
-                
-
-
-                    
-
-
-                    
-
-
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	* [获取开源框架的jar或aar] (https://jitpack.io/)
 * js和java的交互库
 	* [Android中极简的js与java的交互库－SimpleJavaJsBridge] (http://www.jianshu.com/p/de6331c9958f)
-
-
-
-* 获取开源框架的jar或aar
-	* [JitPack | Publish JVM and Android libraries] (https://jitpack.io/)
-
-
-
 * Material design规范
 	* [Android Design Support Library使用] (http://mp.weixin.qq.com/s?__biz=MzI4MTQyNDg3Mg==&mid=2247483752&idx=1&sn=e5a12a53d12dbe80c27ae78af9660b12&chksm=eba827efdcdfaef999ac120869fb3b32508d76f883d1c9b2701c840834a9feef53d0ed9669a3#rd)
-	* [	* [Android]  Material 风格的 Dialog 的使用 - 简书] (http://www.jianshu.com/p/6caffdbcd5db)
-
-
-
-* Android手势以及MotionEvent
-	* [Android手势以及MotionEvent] (http://blog.jiangtao.tech/2016/10/03/Android%E6%89%8B%E5%8A%BF%E4%BB%A5%E5%8F%8AMotionEvent/)
-
-
-
-* Framework
-	* [android/platform_frameworks_base] (https://github.com/android/platform_frameworks_base)
-
-
-
-* BottomNavigationBar
-	* [UI-BottomNavigationBar-底部导航栏 - 简书] (http://www.jianshu.com/p/134d7847a01e)
-
-
-* Android UI(Switch和SwithcCompact)
-	* [Android UI(Switch)详解] (http://blog.csdn.net/qq_28057577/article/details/52261641)
-
-
-* 	[Android]  防止连续点击打开两个重复页面
-	* [Android]  防止连续点击打开两个重复页面的小技巧 - 简书] (http://www.jianshu.com/p/dc63a4b636fa)
-
-
-
-
-
-
-
-* 代码混淆
-	* [写给Android开发者的混淆使用手册] (http://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483651&idx=1&sn=85f0d6c6a0f6c4f2ece97429f423c51c&chksm=ebeafe0cdc9d771a31344d0d6861e3b864bfe36d46652770aa522631eb0115a754e1be579d3b#rd)
-	* [proguard] (http://blog.csdn.net/yuhanghate/article/details/51656804)
-	* [AndroidStudio中代码混淆以及打包操作 - classTC的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/ttccaaa/article/details/47687241)
-	* [深入学习ProGuard之：ProGuard简介与android的应用] (https://gold.xitu.io/post/5854fbc98d6d810065a006c4)
-
-
-
-
-
-
-
-* 布局优化技巧
-	* [一些你需要知道的布局优化技巧] (http://blog.csdn.net/qq_17766199/article/details/52863741)
-
-
-
-
-
-
-
-* Android性能优化
-	* [Android性能优化的方方面面] (http://www.jianshu.com/p/b3b09fa29f65)
-
-            
-            
-
-
-        
-    
+	* [Android]  Material 风格的 Dialog 的使用 - 简书] (http://www.jianshu.com/p/6caffdbcd5db)
