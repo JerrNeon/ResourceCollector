@@ -231,6 +231,7 @@
 	* [Colorful] (https://github.com/garretyoder/Colorful)
 * 与路由跳转有关
 	* [DeepLinkDispatch] (https://github.com/airbnb/DeepLinkDispatch)
+	* [ARouter] (https://github.com/alibaba/ARouter) 
 * 打不死的小强,永不crash的Android	
 	* [Cockroach] (https://github.com/android-notes/Cockroach)
 
