@@ -24,6 +24,7 @@
 * [Retorfit] (https://github.com/square/retrofit)
 * [OkGo] (https://github.com/jeasonlzy/okhttp-OkGo)
 	* [廖子尧] (https://github.com/jeasonlzy)
+	* [OkGo，一个专注于让网络请求更简单的框架，与RxJava完美结合，比Retrofit更简单易用。 - 简书] (http://www.jianshu.com/p/6aa5cb272514)
 * [OkHttp] (https://github.com/square/okhttp)
 	* [源码解析文章] (http://frodoking.github.io/2015/03/12/android-okhttp/)
 	* [拦截并记录所有的HTTP请求与响应] (https://github.com/jgilfelt/chuck)
@@ -32,7 +33,18 @@
 ### [Rx系列](#androidresource)
 * [RxJava] (https://github.com/ReactiveX/RxJava)
 	* [文档] (https://github.com/mcxiaoke/RxDocs)
-	* [文章] (https://gold.xitu.io/post/57d8b4b0c4c97100610509c6)		
+	* [文章] (https://gold.xitu.io/post/57d8b4b0c4c97100610509c6)	
+	* Retrofit + Rxjava + okhttp
+		* [使用Retrofit2.0+OkHttp3.0实现缓存处理 | Werb&#39;s Blog] (http://werb.github.io/2016/07/29/%E4%BD%BF%E7%94%A8Retrofit2+OkHttp3%E5%AE%9E%E7%8E%B0%E7%BC%93%E5%AD%98%E5%A4%84%E7%90%86/)
+		* [RxJava系列1(简介)] (http://www.jianshu.com/p/ec9849f2e510)
+		* [用工厂流水线的方式来理解 RxJava 的概念] (http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0429/4196.html)
+		* [RxJava 与 Retrofit 结合的最佳实践] (http://gank.io/post/56e80c2c677659311bed9841)
+		* [RxJava 详解(扔物线)] (http://gank.io/post/560e15be2dca930e00da1083)
+		* [RxJava 和 RxAndroid 四（RxBinding的使用）] (http://blog.csdn.net/zyj1609wz/article/details/51523835)
+	* 文件上传与下载
+		* [Retrofit+Rxjava 下载文件(带进度显示) - JokAr - 博客频道 - CSDN.NET] (http://blog.csdn.net/a1018875550/article/details/51832700)
+	* [使用Retrofit2 RxJava 文件上传] (http://blog.csdn.net/soslinken/article/details/51274327)
+	* [关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭 - 拉丁吴 - 掘金专栏] (https://gold.xitu.io/post/582b2c818ac24700618ff8f5)
 * [RxPermission] (https://github.com/tbruyelle/RxPermissions)
 * [RxLifecycle] (https://github.com/trello/RxLifecycle)
 
@@ -46,7 +58,11 @@
 	* [EventBus] (https://github.com/greenrobot/EventBus)
 * 图片加载
 	* [Glide] (https://github.com/bumptech/glide)
-	* [Glide多种形状] (https://github.com/wasabeef/glide-transformations)
+		* [Glide多种形状] (https://github.com/wasabeef/glide-transformations)
+		* [Glide 一个专注于平滑滚动的图片加载和缓存库] (http://www.jianshu.com/p/4a3177b57949)
+		* [详谈高大上的图片加载框架Glide] (http://blog.csdn.net/xiehuimx/article/details/52349317)
+		* [详谈高大上的图片加载框架Glide] (http://gold.xitu.io/post/57df609767f3560056b03672)
+		* [Android之Glide使用详解] (http://blog.csdn.net/qq_19711823/article/details/51243918)
 * 数据库
 	* [ObjectBox] (https://github.com/greenrobot/ObjectBox)
 		* [文章] (http://www.tuicool.com/articles/biQ3Anm)
@@ -57,6 +73,7 @@
 	* [异步加载和缓存库] (https://github.com/NYTimes/Store)
 * lambda表达式
 	* [retrolambda] (https://github.com/evant/gradle-retrolambda)
+	* [Java Lambda表达式入门] (http://blog.csdn.net/renfufei/article/details/24600507)
 	
 ### [常用控件](#androidresource)
 * Banner控件
@@ -70,6 +87,7 @@
 	* [图标制作] (https://romannurik.github.io/AndroidAssetStudio/icons-generic.html#source.type=image&source.space.trim=1&source.space.pad=0&size=24&padding=8&color=33b5e5%2C100&name=ic_icon_cdgx_on)
 * 加载框进度条
 	* [加载框] (https://github.com/Kaopiz/KProgressHUD)
+	* [Android的ProgressHUD多种加载效果：KProgressHUD] (http://www.open-open.com/lib/view/open1453091486323.html)
 	* [圆角button点击后变成加载button] (https://github.com/dmytrodanylyk/circular-progress-button)
 	* [水平进度条] (https://github.com/daimajia/NumberProgressBar)
 	* [进度条来显示加载图片的进度] (https://github.com/peng8350/LoadingProgress/blob/master/README_CN.md)
@@ -120,6 +138,11 @@
 	* [GuideView] (https://github.com/binIoter/GuideView)
 * 带计数的输入框
 	* [BufferTextInputLayout] (https://github.com/bufferapp/BufferTextInputLayout)
+* 日历和日期
+	* [Android自定义控件之日历控件 - 泡在网上的日子] (http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0930/3538.html)
+	* [android WheelView时间选择器 - a541006的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/a541006/article/details/40212321)
+	* [Android自定义控件之日历控件 - Mr_dsw的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/mr_dsw/article/details/48755993)
+	
 
 ### [仿IOS控件](#androidresource)	
 * 开关
@@ -171,6 +194,10 @@
 * 与adapter有关
 	* [Android复杂的列表视图新写法] (https://github.com/drakeet/MultiType/blob/master/README.md)
 	* [RecyerView适配器封装] (https://github.com/CymChad/BaseRecyclerViewAdapterHelper)	
+* 可拖拽的ListView
+	* [可拖拽listview基本使用技巧（DragSortListView） - forrey的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/forrey/article/details/41355457/)
+	* [ListView拖动（或长按拖动）子项item，更改位置，且可以左右滑删除子项item - u012658005的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/u012658005/article/details/44041235)
+	* [拖拽滑动DragSortListview] (http://blog.csdn.net/u010436741/article/details/9419167)
 	
 ### [布局相关](#androidresource)
 * MaterialDesign风格的ViewPager
@@ -194,6 +221,16 @@
 	* [AwesomeBar] (https://github.com/florent37/AwesomeBar)
 * 一个弧形的抽屉导航(侧滑)
 	* [ArcNavigationView] (https://github.com/rom4ek/ArcNavigationView)
+* android可视化界面和流式布局               
+	* [了解使用Android ConstraintLayout - 享受技术带来的快乐 - 博客频道 - CSDN.NET] (http://blog.csdn.net/jdsjlzx/article/details/51460581)
+	* [android流式布局：FlexboxLayout用法探析(一) - FightSeeker的专栏 - 博客频道 - CSDN.NET] (http://46aae4d1e2371e4aa769798941cef698.devproxy.yunshipei.com/tabolt/article/details/51799226)
+* tagFlowLayout(流式布局)
+	* [GitHub] (https://github.com/hongyangAndroid/FlowLayout)
+	* [GitHub - hongyangAndroid/baseAdapter: Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。] (https://github.com/hongyangAndroid/baseAdapter)
+	* [神奇的Android Studio Template - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/51592043)
+	* [Android ORMLite 框架的入门用法 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/39121377)
+	* [Android屏幕适配姿势] (http://www.jianshu.com/p/5d5494dd6dbe)
+	
 	
 ### [As插件](#androidresource)
 * 实体类parcelable序列化插件
@@ -208,6 +245,16 @@
 	* [AndroidProguardPlugin] (https://github.com/zhonghanwen/AndroidProguardPlugin)
 * 批量地压缩你项目中的图片插件
 	* [TinyPngPlugin] (https://github.com/waynell/TinyPngPlugin/blob/master/README.zh-cn.md)
+* Chrome插件
+	* [Chrome插件,Chrome商店,谷歌浏览器插件下载 - Chrome插件网] (http://www.cnplugins.com/)
+* 在线查看Github上的项目插件
+	* [【Octotree Chrome插件】Octotree Chrome插件下载] (http://www.cnplugins.com/devtool/octotree/)
+* 插件合集
+	* [合集1] (https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651433634&idx=1&sn=e5f65d8a0a2b85f7c22d8ccd4cf96a39&scene=1&srcid=0721vQcDls3Ak34dZY1y3h7o&key=77421cf58af4a653e4f55f04cf114492e73a17a2a7d56a0e523c62f16c003b19cdab0cf3a902023d7cbe2af60a58c71d&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=ihQKTSTYwhIquv1%2B6HyhJs3I0vZz0qtIoTVci3l%2BikU%3D)
+	* [合集2] (https://github.com/dreamlivemeng/androidstudio-plugins)
+	* [合集3] (https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
+* 插件查找
+	* [jetbrains] (https://plugins.jetbrains.com/?idea)
 
 ### [自定义View系列](#androidresource)
 * 一个功能强大的TextView，可以满足日常大部分布局方式(常用于个人中心)
@@ -223,6 +270,15 @@
 	* [ExpandableTextView] (https://github.com/Carbs0126/ExpandableTextView)
 * Android 自定义View合集
 	* [博客] (http://www.jianshu.com/p/a5040fcfe8cb)
+* 自定义TextView(自适应，水平垂直滚动)
+	* [安卓AutoFitTextView实例Dmeo分享自适应 - Su_tianbiao的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/su_tianbiao/article/details/44704261)
+	* [Android:TextView的垂直滚动效果,和上下滚动效果 - ZhengJiao - 博客频道 - CSDN.NET] (http://blog.csdn.net/zheng_jiao/article/details/51546356)
+	* [Android 文字自动滚动（跑马灯）效果的两种实现方法 - 任海丽(3G/移动开发) - 博客频道 - CSDN.NET] (http://blog.csdn.net/rhljiayou/article/details/7068614)
+* ViewDragHelper自定义ViewGroup神器
+	* [Android ViewDragHelper完全解析 自定义ViewGroup神器] (http://blog.csdn.net/lmj623565791/article/details/46858663)
+* TextView文字滚动效果
+	* [Android 文字自动滚动（跑马灯）效果的两种实现方法 - chenshi011的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/chenshi011/article/details/7792326)
+                
 	
 ### [Activity和Fragment](#androidresource)	
 * 为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题
@@ -234,6 +290,13 @@
 	* [ARouter] (https://github.com/alibaba/ARouter) 
 * 打不死的小强,永不crash的Android	
 	* [Cockroach] (https://github.com/android-notes/Cockroach)
+* ViewPager懒加载                
+	* [实现ViewPager懒加载的三种方法 - 如琢如磨 - 博客频道 - CSDN.NET] (http://blog.csdn.net/baidu_26654149/article/details/50992748)
+	* [GitHub - lianghanzhen/LazyViewPager] (https://github.com/lianghanzhen/LazyViewPager)
+	* [【Android】Fragment懒加载和ViewPager的坑] (http://www.jianshu.com/p/311c7ffdb85b)
+	* [lvzishen/ViewPagerLazyLoad:] (https://github.com/lvzishen/ViewPagerLazyLoad/tree/master)
+	* [Viewpager动画] (http://blog.csdn.net/lmj623565791/article/details/40411921/)
+	* [关于ViewPager的懒加载问题 - jys1115的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/jys1115/article/details/41862019?utm_source=tuicool)
 
 ### [工具类](#androidresource)	
 * 常用合集
@@ -250,6 +313,19 @@
 	* [SystemBarTint] (https://github.com/jgilfelt/SystemBarTint)
 * 简化和JSON的交互	
 	* [ason] (https://github.com/afollestad/ason)
+* android特殊转义字符
+	* [android strings.xml的特殊字符 - 点滴积累成就技术梦想 - 博客频道 - CSDN.NET] (http://blog.csdn.net/leiming32/article/details/8135513)
+* 定时
+	* [ScheduledExecutorService执行周期性或定时任务 - tianxiangshan的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/tianxiangshan/article/details/8599337)
+* Json格式转化成Model
+	* [JSONModel解析数据成Model - Jacky Shin的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/smking/article/details/40432287)
+* 正则表达式
+	* [Android正则表达式 - TristanSmile的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/tristansmile/article/details/8313802)
+* dp和px互转
+	* [labs.rampinteractive.co.uk/android_dp_px_calculator/] (http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
+* Android流氓代码
+	* [Android流氓代码块(亲测可行）] (http://blog.csdn.net/qq_22329521/article/details/52704661)               
+	
 
 ### [动画](#androidresource)
 * lottie高级动画库	
@@ -281,12 +357,19 @@
 	* [SopCastComponent] (https://github.com/LaiFeng-Android/SopCastComponent)
 * Retrofit + Rxjava + okhttp开源项目	
 	* [LookLook] (https://github.com/xinghongfei/LookLook)
+* 支付宝 Android 版使用的开源组件
+	* [支付宝 Android 版使用的开源组件] (http://www.jianshu.com/p/844e338319af#)
+* 项目常用库
+	* [项目中用到的那些方便流行的库] (http://www.jianshu.com/p/6db1a5e84d67)
+
 	
 ### [优质资源查找和学习site](#androidresource)	
 * 自定义View	
 	* [awesome-view] (https://github.com/xinghongfei/awesome-view)
 * Java的23种设计模式	
 	* [JavaPattern] (https://github.com/HaoTianYi/JavaPattern)
+* 反射
+	* [Java反射研究和实践] (http://www.devio.org/2015/12/02/Java%E5%8F%8D%E5%B0%84%E7%A0%94%E7%A9%B6%E5%92%8C%E5%AE%9E%E8%B7%B5/)
 * 非官方的 Google Actions Java SDK	
 	* [Google-Actions-Java-SDK] (https://github.com/frogermcs/Google-Actions-Java-SDK)
 * Android开源项目分类整理	
