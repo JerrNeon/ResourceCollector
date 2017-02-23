@@ -5,6 +5,7 @@
 * [AndroidSupportDesign兼容库] (#androidsupportdesign兼容库)
 * [6.0] (#60)
 * [7.0+] (#70)
+* [常见控件问题及属性介绍] (#常见控件问题及属性介绍)
 * [AndroidStudio] (#androidstudio)
 * [适配] (#适配)
 * [学习知识] (#学习知识)
@@ -68,12 +69,10 @@
 	* [【Android】android:windowSoftInputMode属性详解 - Rex.. - 博客园] (http://www.cnblogs.com/rayray/p/3380917.html)
 	* [Android 爬坑之旅：软键盘挡住输入框问题的终极解决方案 - DiyCode] (http://www.diycode.cc/topics/383)
 	* [Android小技巧] (http://fish119.site/2016/12/01/Android%E5%B0%8F%E6%8A%80%E5%B7%A7-Part-II/)
-      	* 软键盘监听及修改
 		* [android editText 软键盘enter键图标的设置 - Crazy Android - 博客频道 - CSDN.NET] (http://blog.csdn.net/howlaa/article/details/36895021)
 		* [Android 如何监听输入法关闭事件] (http://blog.csdn.net/johnny901114/article/details/51471729)
 * ImageView
-	* android设置ImageView的宽度为屏幕宽度，高度自适应
-		* [Android 设置ImageView宽度固定，其高度按比例缩放适应 - findsafety的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/findsafety/article/details/51287642)
+	* [Android 设置ImageView宽度固定，其高度按比例缩放适应 - findsafety的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/findsafety/article/details/51287642)
 * 图片
 	* [Android4.4中获取资源路径问题 - huangyanan1989的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/huangyanan1989/article/details/17263203)
 * drawable
@@ -150,4 +149,4 @@
 	* [Android中极简的js与java的交互库－SimpleJavaJsBridge] (http://www.jianshu.com/p/de6331c9958f)
 * Material design规范
 	* [Android Design Support Library使用] (http://mp.weixin.qq.com/s?__biz=MzI4MTQyNDg3Mg==&mid=2247483752&idx=1&sn=e5a12a53d12dbe80c27ae78af9660b12&chksm=eba827efdcdfaef999ac120869fb3b32508d76f883d1c9b2701c840834a9feef53d0ed9669a3#rd)
-	* [Android]  Material 风格的 Dialog 的使用 - 简书] (http://www.jianshu.com/p/6caffdbcd5db)
+	* [Android Material风格的Dialog的使用 - 简书] (http://www.jianshu.com/p/6caffdbcd5db)
