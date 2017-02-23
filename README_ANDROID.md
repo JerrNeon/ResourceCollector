@@ -361,7 +361,7 @@
 	* [支付宝 Android 版使用的开源组件] (http://www.jianshu.com/p/844e338319af#)
 * 项目常用库
 	* [项目中用到的那些方便流行的库] (http://www.jianshu.com/p/6db1a5e84d67)
-* Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。OKHttp、UIL图片加载、ZXing二维码、沉浸状态栏、下载安装、自动缓存以及各种Base、Demo、UI、Util直接用。全新的手势，侧滑返回、全局 (https://github.com/TommyLemon/Android-ZBLibrary#readme)
+* [Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。OKHttp、UIL图片加载、ZXing二维码、沉浸状态栏、下载安装、自动缓存以及各种Base、Demo、UI、Util直接用。全新的手势，侧滑返回、全局] (https://github.com/TommyLemon/Android-ZBLibrary#readme)
 
 
 	
