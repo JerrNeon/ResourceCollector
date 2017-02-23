@@ -1,18 +1,43 @@
-       
+# Android新特性、问题及AS
 
-                
-                
+***
+## [AndroidSupportDesign兼容库] (#androidsupportdesign兼容库)
+## [6.0] (#60)
+## [7.0+] (#70)
+## [AndroidStudio] (#androidstudio)
+## [适配] (#适配)
+## [学习知识] (#学习知识)
 
-* Android新特性
-	* [Material Design UI Widgets - 张兴业的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/xyz_lmn/article/details/35644799)
-	* [Android L中的RecyclerView 、CardView 、Palette的使用 - 张兴业的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/xyz_lmn/article/details/38735117)
+***
+
+### [AndroidSupportDesign兼容库] (#android新特性问题及as) 	
+* [Material Design UI Widgets - 张兴业的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/xyz_lmn/article/details/35644799)
+* [Android L中的RecyclerView 、CardView 、Palette的使用 - 张兴业的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/xyz_lmn/article/details/38735117)
+* Toolbar
 	* [Android 5.x Theme 与 ToolBar 实战 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/45303349)
 	* [Toolbar自定义布局 - lxfeng1098751554的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/lxfeng1098751554/article/details/50662886)
-	* [Android RecyclerView 使用完全解析 体验艺术般的控件 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/45059587)
-                
+* [Android RecyclerView 使用完全解析 体验艺术般的控件 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/45059587)
+* [Android应用Design Support Library完全使用实例 - OPEN 开发经验库] (http://www.open-open.com/lib/view/open1433385856119.html)
+	* [Material Design之CollapsingToolbarLayout使用 - 【博客地址永久迁移到】：http://zhengxiaoyong.me - 博客频道 - CSDN.NET] (http://blog.csdn.net/u010687392/article/details/46906657)
+	* [Android 自己实现 NavigationView 	* [Design Support Library(1)]  - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/46405409)
+	* [FloatingActionButton 完全解析	* [Design Support Library(2)]  - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/46678867)
+	* [android CoordinatorLayout使用 - 张兴业的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/xyz_lmn/article/details/48055919)
+	* [Android Design Support Library（三）用CoordinatorLayout实现Toolbar隐藏和折叠 - 刘望舒的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/itachi85/article/details/50492695)
+	* [Android support library支持包常用控件介绍(一) - 积少成多，努力，谦逊，进取。 - 博客频道 - CSDN.NET] (http://blog.csdn.net/zhangke3016/article/details/51752635)
+	* [Android support library支持包常用控件介绍(二)] (http://blog.csdn.net/zhangke3016/article/details/51771860)
+* NestedScrollView
+	* [Android Material Design：CoordinatorLayout与NestedScrollView - Zhang Phil - 博客频道 - CSDN.NET] (http://blog.csdn.net/zhangphil/article/details/48877865)
+* BottomNavigationView
+	* [Android Support 25中BottomNavigationView与ViewPager结合实现material Tab标准效果] (http://www.jianshu.com/p/46c629841803)
+	* [BottomNavigationView 的使用] (http://blog.csdn.net/wl9739/article/details/52875710)
+* Bottom Sheet实现底部菜单
+	* [使用Bottom Sheet实现底部菜单] (http://www.jianshu.com/p/1024ad202683)
+* TextInputLayout
+	* [Material Design 之 TextInputLayout和TextInputEditText - 依然饭特稀西 - 掘金专栏] (https://gold.xitu.io/post/58663bca570c3500688b5272)          
                 
 
-* 6.0权限
+### [6.0] (#android新特性问题及as) 
+* 权限
 	* [android 6.0权限全面详细分析和解决方案] (http://blog.csdn.net/hudashi/article/details/50775180)
 	* [Android 6.0RunTime Permission完美解决方案] (http://blog.csdn.net/u011068996/article/details/50602100)
 	* [Android 6.0 运行时权限处理 - forlong401的专栏--有问题上：http://www.androidren.com - 博客频道 - CSDN.NET] (http://blog.csdn.net/forlong401/article/details/49787305)
@@ -22,105 +47,51 @@
 	* [Android6.0权限管理PermissiDispater] (http://blog.csdn.net/quan356270259/article/details/50876272)
 	* [Android6.0动态权限申请步骤以及需要注意的一些坑] (http://www.jianshu.com/p/a51593817825)
 	* [RxPermissions源码解析] (http://www.jianshu.com/p/c8a30200e6b2)
-	* [Android M 权限最佳实践] (http://chen-wei.me/2016/11/10/android-permission-best-practice/)
+	* [Android M 权限最佳实践] (http://chen-wei.me/2016/11/10/android-permission-best-practice/)                
                 
-                
-
+### [7.0+] (#android新特性问题及as) 
 * 7.0文件使用/7.1快捷方式              
 	* [Android7.0适配教程，心得 - 简书] (http://www.jianshu.com/p/56b9fb319310)
 	* [实践] (http://blog.feng.moe/2016/11/03/android-new-shortcut-api/)
-                    
-
 * 7.0拍照问题
 	* [Android7.0拍照失败FileUriExposedException,你的拍照代码升级了吗] (http://www.jianshu.com/p/a1eb3ad79ef6)
 	* [如何在Android7.0系统下通过Intent安装apk | Alvin-一座小楼] (http://www.czhzero.com/2016/12/21/how-to-install-apk-on-Android7-0/)
                 
 
-                
-                
-
-
-                
-
-
-                
-                
-
-
-
-                
-
-* 软键盘               
+### [常见控件问题及属性介绍] (#android新特性问题及as) 
+* 软键盘               
 	* [【Android】android:windowSoftInputMode属性详解 - Rex.. - 博客园] (http://www.cnblogs.com/rayray/p/3380917.html)
 	* [Android 爬坑之旅：软键盘挡住输入框问题的终极解决方案 - DiyCode] (http://www.diycode.cc/topics/383)
 	* [Android小技巧] (http://fish119.site/2016/12/01/Android%E5%B0%8F%E6%8A%80%E5%B7%A7-Part-II/)
-                
-                
-
-
-                
-                
-
-* 软键盘监听及修改
-	* [android editText 软键盘enter键图标的设置 - Crazy Android - 博客频道 - CSDN.NET] (http://blog.csdn.net/howlaa/article/details/36895021)
-	* [Android 如何监听输入法关闭事件] (http://blog.csdn.net/johnny901114/article/details/51471729)
-
-                
-                
-
-                
-                
-
-* android设置ImageView的宽度为屏幕宽度，高度自适应
-	* [Android 设置ImageView宽度固定，其高度按比例缩放适应 - findsafety的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/findsafety/article/details/51287642)
-                
-                
-
-* Android4.4获取图片路径问题
+      	* 软键盘监听及修改
+		* [android editText 软键盘enter键图标的设置 - Crazy Android - 博客频道 - CSDN.NET] (http://blog.csdn.net/howlaa/article/details/36895021)
+		* [Android 如何监听输入法关闭事件] (http://blog.csdn.net/johnny901114/article/details/51471729)
+* ImageView
+	* android设置ImageView的宽度为屏幕宽度，高度自适应
+		* [Android 设置ImageView宽度固定，其高度按比例缩放适应 - findsafety的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/findsafety/article/details/51287642)
+* 图片
 	* [Android4.4中获取资源路径问题 - huangyanan1989的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/huangyanan1989/article/details/17263203)
-                
-                
-
-* drawable不居中问题
-	* [重写Button实现图片drawableTop和文字一起居中 - dreamInTheWorld的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/dreamintheworld/article/details/45243663)
-                
-                
-
-* 自定义weiget大小属性详解
-	* [android:layout_weight android:weightSum - Ken的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/kkkvvv123/article/details/9029381)
-                
-                
-
-
-                
-                
-
+* drawable
+	* [drawable不居中问题] (http://blog.csdn.net/dreamintheworld/article/details/45243663)
+* weiget
+	* [自定义weiget大小属性详解] (http://blog.csdn.net/kkkvvv123/article/details/9029381)
 * Android抽象布局include
 	* [Android抽象布局——include、merge 、ViewStub - 张兴业的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/xyz_lmn/article/details/14524567)
-                
-                
-
-
-                
-                
-
-                
-                
-
-
-                
-
 * fitsystemwindow
 	* [fitsSystemWindows_果汁O_O哈哈_新浪博客] (http://blog.sina.com.cn/s/blog_15e1702d40102w9e0.html)
-
-                
-                
-
-* kotlin开发Android
-	* [Android开发必备知识：为什么说Kotlin值得一试] (http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/4000.html)
+* webview
+	* [Android-WebView在ScrollView中高度不稳定末尾有大段空白问题解决 - qq_32452623的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/qq_32452623/article/details/52304628)
+	* [还在用 Android 自带的 WebView 组件？太 Out 了！] (http://gold.xitu.io/entry/57bd8c25df0eea005c708667)
+	* [FinestWebView：可自定义的WebView] (http://www.jianshu.com/p/f88c723d3d87)
 
 
-* 常见问题                
+### {AndroidStudio] (#android新特性问题及as) 
+* 配置             
+	* [Android] (http://liukun.engineer/2016/04/10/Android-Studio-advanced-configuration/)
+	* [AndroidStudio入门之第三方引用 - 简书] (http://www.jianshu.com/p/f33a1f413ab3)
+	* [Gradle配置最佳实践] (http://gold.xitu.io/post/582d606767f3560063320b21)
+	* [Android常用的Gradle配置和加速编译] (http://www.jianshu.com/p/81231a82f83c)
+* 常见问题                
 	* [学习Android Studio里的Gradle - Kenny tian - 博客园] (http://www.cnblogs.com/Kennytian/p/4923993.html)
 	* [Error:Gradle version 2.2 is required. Current version is 2.10. If using the gradle wrapper - Lennie的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/weixin_35789435/article/details/52119008)
 	* [org.gradle.api.publication.maven.internal.DefaultMavenFactory错误 - 木头平 - 博客园] (http://www.cnblogs.com/lping/p/5474954.html)
@@ -132,121 +103,61 @@
 	* [Cannot reload AVD list - 吃素只吃肉的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/qq_28919337/article/details/50899282)
 	* [android出现注: 某些输入文件使用或覆盖了已过时的 API。 注: 有关详细信息, 请使用 -Xlint:deprecation 重新编译。 注: 某些输入文件使用了未经检查或不安全的操作。 注 - u012416928的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/u012416928/article/details/47356887)
 	* [Error:warning: Ignoring InnerClasses attribute for an anonymous inner class - lvshuchangyin的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/lvshuchangyin/article/details/51803154)                 
-             
-
-                        
-                    
-                    
-
 * 优化                 
 	* [30秒让你加速Android Studio/Gradle构建 - 51CTO.COM] (http://mdsa.51cto.com/art/201503/469038.htm)
 	* [AndroidStudio编译提速，快过eclipse] (http://blog.csdn.net/zero_and_one/article/details/42009487)
 	* [【译】我每周在构建Gradle时是如何节约出5小时的] (http://www.jianshu.com/p/f9b0592383b8)
-                    
-                    
-
-* 配置             
-	* [Android] (http://liukun.engineer/2016/04/10/Android-Studio-advanced-configuration/)
-	* [AndroidStudio入门之第三方引用 - 简书] (http://www.jianshu.com/p/f33a1f413ab3)
-	* [Gradle配置最佳实践] (http://gold.xitu.io/post/582d606767f3560063320b21)
-	* [Android常用的Gradle配置和加速编译] (http://www.jianshu.com/p/81231a82f83c)
-                    
-                    
-
-* AndroidStudio代码混淆和多渠道打包
+* 代码混淆和多渠道打包
 	* [Android Studio多渠道打包和代码混淆教程 - leeo1010的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/leeo1010/article/details/49903759)
+* 调试
+	* [Android 高效调试神器 JRebel] (http://blog.csdn.net/googdev/article/details/53288564)
+	* [Freeline] (https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
+* 签名
+	* [Android Gradle signing 编译打包apk的几种办法] (http://blog.csdn.net/ylbf_dev/article/details/52399083)
 
 
-                    
+### [适配] (#android新特性问题及as)
+* autolayout适配
+	* [Android AutoLayout全新的适配方式 堪称适配终结者 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/49990941)
+	* [GitHub - hongyangAndroid/AndroidAutoLayout: Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。] (https://github.com/hongyangAndroid/AndroidAutoLayout) 
+	* [Android解决AutoLayout不能设置多种设计稿尺寸的问题] (http://blog.csdn.net/qq199208/article/details/52815831)
+* 屏幕适配(values和百分比)
+	* [Android 百分比布局库(percent-support-lib) 解析与扩展 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/46695347)
 
+
+### [学习知识] (#android新特性问题及as) 
+* kotlin开发Android
+	* [Android开发必备知识：为什么说Kotlin值得一试] (http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/4000.html)
 * jar和aar
 	* [android中.aar文件与.jar文件的区别] (http://blog.csdn.net/justinnick/article/details/52421234)
                     
                     
 
-* Android 高效调试神器 JRebel
-	* [Android 高效调试神器 JRebel] (http://blog.csdn.net/googdev/article/details/53288564)
+
                     
                     
 
-* FreeLine高效调试
-	* [Freeline] (https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
-                    
-                    
 
-* 签名
-	* [Android Gradle signing 编译打包apk的几种办法] (http://blog.csdn.net/ylbf_dev/article/details/52399083)
                     
                 
                 
 
-* androidSupportDesign
-	* [Android应用Design Support Library完全使用实例 - OPEN 开发经验库] (http://www.open-open.com/lib/view/open1433385856119.html)
-	* [Material Design之CollapsingToolbarLayout使用 - 【博客地址永久迁移到】：http://zhengxiaoyong.me - 博客频道 - CSDN.NET] (http://blog.csdn.net/u010687392/article/details/46906657)
-	* [Android 自己实现 NavigationView 	* [Design Support Library(1)]  - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/46405409)
-	* [FloatingActionButton 完全解析	* [Design Support Library(2)]  - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/46678867)
-	* [android CoordinatorLayout使用 - 张兴业的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/xyz_lmn/article/details/48055919)
-	* [Android Design Support Library（三）用CoordinatorLayout实现Toolbar隐藏和折叠 - 刘望舒的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/itachi85/article/details/50492695)
+
                     
 
-* NestedScrollView
-	* [Android Material Design：CoordinatorLayout与NestedScrollView - Zhang Phil - 博客频道 - CSDN.NET] (http://blog.csdn.net/zhangphil/article/details/48877865)
-                    
+
                     
 
-* BottomNavigationView
-	* [Android Support 25中BottomNavigationView与ViewPager结合实现material Tab标准效果] (http://www.jianshu.com/p/46c629841803)
-	* [BottomNavigationView 的使用] (http://blog.csdn.net/wl9739/article/details/52875710)
-                    
-                    
 
-* Bottom Sheet实现底部菜单
-	* [使用Bottom Sheet实现底部菜单] (http://www.jianshu.com/p/1024ad202683)
-                    
-                    
-
-* Android support library
-	* [Android support library支持包常用控件介绍(一) - 积少成多，努力，谦逊，进取。 - 博客频道 - CSDN.NET] (http://blog.csdn.net/zhangke3016/article/details/51752635)
-	* [Android support library支持包常用控件介绍(二)] (http://blog.csdn.net/zhangke3016/article/details/51771860)
-                    
-                    
-
-* TextInputLayout
-	* [Material Design 之 TextInputLayout和TextInputEditText - 依然饭特稀西 - 掘金专栏] (https://gold.xitu.io/post/58663bca570c3500688b5272)
-                    
-                
-  
-                    
-
-* autolayout适配
-	* [Android AutoLayout全新的适配方式 堪称适配终结者 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/49990941)
-	* [GitHub - hongyangAndroid/AndroidAutoLayout: Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。] (https://github.com/hongyangAndroid/AndroidAutoLayout)
-                    
-                    
-
-* 屏幕适配(values和百分比)
-	* [Android 百分比布局库(percent-support-lib) 解析与扩展 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/46695347)
-                    
                     
 
 
 
 
-* 解决AutoLayout不能设置多种设计稿尺寸的问题
-	* [Android解决AutoLayout不能设置多种设计稿尺寸的问题] (http://blog.csdn.net/qq199208/article/details/52815831)
-                    
 
 
 
 
-，Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。OKHttp、UIL图片加载、ZXing二维码、沉浸状态栏、下载安装、自动缓存以及各种Base、Demo、UI、Util直接用。全新的手势，侧滑返回、全局] (https://github.com/TommyLemon/Android-ZBLibrary#readme)
-
-
-
-* webview
-	* [Android-WebView在ScrollView中高度不稳定末尾有大段空白问题解决 - qq_32452623的博客 - 博客频道 - CSDN.NET] (http://blog.csdn.net/qq_32452623/article/details/52304628)
-	* [还在用 Android 自带的 WebView 组件？太 Out 了！] (http://gold.xitu.io/entry/57bd8c25df0eea005c708667)
-	* [FinestWebView：可自定义的WebView] (http://www.jianshu.com/p/f88c723d3d87)
 
 
 
