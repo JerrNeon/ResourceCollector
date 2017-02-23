@@ -10,7 +10,7 @@
 * [与媒体有关] (#与媒体有关)
 * [RecyerView、ListView、GridView、ScrollView] (#recyerviewlistviewgridviewscrollview)
 * [布局相关] (#布局相关)
-* [As插件] (#as插件)
+* [插件] (#插件)
 * [自定义View系列] (#自定义view系列)
 * [Activity和Fragment] (#activity和fragment)
 * [工具类] (#工具类)
@@ -232,7 +232,7 @@
 	* [Android屏幕适配姿势] (http://www.jianshu.com/p/5d5494dd6dbe)
 	
 	
-### [As插件](#androidresource)
+### [插件](#androidresource)
 * 实体类parcelable序列化插件
 	* [android-parcelable-intellij-plugin] (https://github.com/mcharmas/android-parcelable-intellij-plugin)
 * 转换value中Strings中文为其他语言的插件
