@@ -245,7 +245,8 @@
 	* [cnbankcard] (https://github.com/digglife/cnbankcard)
 	* [文章] (http://blog.csdn.net/u013334392/article/details/52495363)
 * 状态栏一体化	
-	* [statusbar-util] (http://jaeger.itscoder.com/android/2016/03/27/statusbar-util.html)
+	* [StatusBarUtil] (https://github.com/laobie/StatusBarUtil)
+	* [SystemBarTint] (https://github.com/jgilfelt/SystemBarTint)
 * 简化和JSON的交互	
 	* [ason] (https://github.com/afollestad/ason)
 
