@@ -74,6 +74,12 @@
 * lambda表达式
 	* [retrolambda] (https://github.com/evant/gradle-retrolambda)
 	* [Java Lambda表达式入门] (http://blog.csdn.net/renfufei/article/details/24600507)
+* 一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 只需要两行代码, 就可以实现换肤, 你值得拥有
+	* [Android-skin-support] (https://github.com/ximsfei/Android-skin-support)
+* facebook出品，可以非常方便地查看应用的网络情况，监测应用中SQLite、SharedPreferences数据，查看当前Activity的布局结构，甚至修改布局中的文字等，可以实时生效，也可以借助JS执行一些命令，查看当前应用中的数据，功能比较强大
+	* [stetho] (https://github.com/facebook/stetho)
+* 支持多种手势和动作检测
+	* [sensey] (https://github.com/nisrulz/sensey)
 	
 ### [常用控件](#androidresource)
 * Banner控件
@@ -345,6 +351,8 @@
 	* [AndroidViewAnimations] (https://github.com/daimajia/AndroidViewAnimations)
 * 搜索框动画库	
 	* [JJSearchViewAnim] (https://github.com/android-cjj/JJSearchViewAnim)	
+* 简便易用的动画库
+	* [ExpectAnim] (https://github.com/florent37/ExpectAnim)
 
 ### [开发框架和开源项目](#androidresource)
 * Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等	
