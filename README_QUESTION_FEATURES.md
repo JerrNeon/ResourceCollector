@@ -32,6 +32,7 @@
 * BottomNavigationView
 	* [Android Support 25中BottomNavigationView与ViewPager结合实现material Tab标准效果] (http://www.jianshu.com/p/46c629841803)
 	* [BottomNavigationView 的使用] (http://blog.csdn.net/wl9739/article/details/52875710)
+* [BottomNavigationBar] (https://github.com/Ashok-Varma/BottomNavigation)
 * Bottom Sheet实现底部菜单
 	* [使用Bottom Sheet实现底部菜单] (http://www.jianshu.com/p/1024ad202683)
 * TextInputLayout
