@@ -87,6 +87,7 @@
 * Banner控件
 	* [XBanner] (https://github.com/xiaohaibin/XBanner)
 	* [Android-ConvenientBanner] (https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
+	* [banner动画] (https://github.com/ToxicBakery/ViewPagerTransforms)
 * 自动版本检测并更新库
 	* [CheckVersionLib] (https://github.com/AlexLiuSheng/CheckVersionLib)
 * 底部导航栏
