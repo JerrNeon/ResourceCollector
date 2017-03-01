@@ -78,6 +78,8 @@
 	* [Android-skin-support] (https://github.com/ximsfei/Android-skin-support)
 * facebook出品，可以非常方便地查看应用的网络情况，监测应用中SQLite、SharedPreferences数据，查看当前Activity的布局结构，甚至修改布局中的文字等，可以实时生效，也可以借助JS执行一些命令，查看当前应用中的数据，功能比较强大
 	* [stetho] (https://github.com/facebook/stetho)
+* 查看App数据库和sharepreference文件
+	* [Android-Debug-Database] (https://github.com/amitshekhariitbhu/Android-Debug-Database)
 * 支持多种手势和动作检测
 	* [sensey] (https://github.com/nisrulz/sensey)
 	
