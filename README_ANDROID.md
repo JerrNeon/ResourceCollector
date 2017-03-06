@@ -185,7 +185,7 @@
 * 播放器
 	* [ijkplayer] (https://github.com/Bilibili/ijkplayer)
 	* [GSYVideoPlayer] (https://github.com/CarGuo/GSYVideoPlayer)
-        * [jjdxm_ijkplayer] (https://github.com/jjdxmashl/jjdxm_ijkplayer/)
+	* [jjdxm_ijkplayer] (https://github.com/jjdxmashl/jjdxm_ijkplayer/)
 * VR实战
 	* [googleVR] (https://github.com/googlevr/gvr-android-sdk)
 	* [图片] (https://github.com/linglongxin24/VRDevelopImage)
