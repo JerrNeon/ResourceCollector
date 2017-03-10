@@ -379,6 +379,17 @@
 * [Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。OKHttp、UIL图片加载、ZXing二维码、沉浸状态栏、下载安装、自动缓存以及各种Base、Demo、UI、Util直接用。全新的手势，侧滑返回、全局] (https://github.com/TommyLemon/Android-ZBLibrary#readme)
 
 
+### [第三方](#ttpapi)
+* [QQ] (http://wiki.open.qq.com/wiki/创建并配置工程)
+* [微信] (https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=1417751808&token=&lang=zh_CN)
+* [支付宝] (https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7629140.0.0.d3bK7C&treeId=204&articleId=105296&docType=1)
+* [银联] (https://open.unionpay.com/ajweb/help/file/techFile?productId=3)
+* [新浪微博] (https://github.com/sinaweibosdk/weibo_android_sdk)
+* 百度地图 
+	* [SDK] (http://lbsyun.baidu.com/index.php?title=androidsdk)
+	* [Api文档] (http://developer.baidu.com/map/reference/index.php?title=Class:android%E6%80%BB%E7%B1%BB/android%E6%A0%B8%E5%BF%83%E7%B1%BB)
+* [JPush] (http://docs.jiguang.cn/jpush/client/Android/android_guide/)
+
 	
 ### [优质资源查找和学习site](#androidresource)	
 * 自定义View	
@@ -413,6 +424,7 @@
 	* [深入理解Android之AOP] (http://blog.csdn.net/innost/article/details/49387395)
 	* [阿里巴巴 JAVA 开发手册] (https://img.hacpai.com/file/2017/1/eb0998bac7664496b2f1af98e07b08e5-Java.pdf)
 * 一些图标网站	
+	* [阿里巴巴图标库] (http://www.iconfont.cn/plus/home/index?spm=a313x.7781069.1998910419.2.iVBhOV)
 	* [easyicon] (http://www.easyicon.net/566311-Minus_Circle_Green_icon.html)
 	* [findicons] (http://findicons.com/)
 	* [前端工程师必备实用网站] (http://www.jianshu.com/p/53a7da454057)
