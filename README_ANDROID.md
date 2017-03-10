@@ -16,6 +16,7 @@
 * [工具类] (#工具类)
 * [动画] (#动画)
 * [开发框架和开源项目] (#开发框架和开源项目)
+* [第三方] (#第三方)
 * [优质资源查找和学习site] (#优质资源查找和学习site)
 * [大神、著名公司主页] (#大神著名公司主页)
 
@@ -379,7 +380,7 @@
 * [Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。OKHttp、UIL图片加载、ZXing二维码、沉浸状态栏、下载安装、自动缓存以及各种Base、Demo、UI、Util直接用。全新的手势，侧滑返回、全局] (https://github.com/TommyLemon/Android-ZBLibrary#readme)
 
 
-### [第三方](#ttpapi)
+### [第三方](#androidresource)
 * [QQ] (http://wiki.open.qq.com/wiki/创建并配置工程)
 * [微信] (https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=1417751808&token=&lang=zh_CN)
 * [支付宝] (https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7629140.0.0.d3bK7C&treeId=204&articleId=105296&docType=1)
@@ -389,6 +390,14 @@
 	* [SDK] (http://lbsyun.baidu.com/index.php?title=androidsdk)
 	* [Api文档] (http://developer.baidu.com/map/reference/index.php?title=Class:android%E6%80%BB%E7%B1%BB/android%E6%A0%B8%E5%BF%83%E7%B1%BB)
 * [JPush] (http://docs.jiguang.cn/jpush/client/Android/android_guide/)
+* 视频监控
+	* [众云视频] (http://www.zvcloud.com/sdkDevelop)
+	* [海康威视频监控文档1] (http://blog.csdn.net/lihong08/article/details/9355691)
+	* [海康威视频监控文档1] (http://blog.csdn.net/lihong08/article/details/9363741)
+* [云脉科技名片扫描] (http://www.yunmai.com/)
+* [白分点大数据践行者] (http://www.baifendian.com/)
+* [shareSDK] (https://github.com/MobClub/ThirdPartyLoginDemo)
+* [友盟] (http://dev.umeng.com/social/android/quick-integration)
 
 	
 ### [优质资源查找和学习site](#androidresource)	
