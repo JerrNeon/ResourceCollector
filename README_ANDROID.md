@@ -361,6 +361,8 @@
 	* [ExpectAnim] (https://github.com/florent37/ExpectAnim)
 * Android Transition Framework详解---超炫的动画框架
 	* [文章] (http://www.jianshu.com/p/e497123652b5)
+* 图片->SVG->PATH
+	* [PathAnimView] (https://github.com/mcxtzhang/PathAnimView)
 
 ### [开发框架和开源项目](#androidresource)
 * Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等	
