@@ -97,7 +97,7 @@
 	* [图标制作] (https://romannurik.github.io/AndroidAssetStudio/icons-generic.html#source.type=image&source.space.trim=1&source.space.pad=0&size=24&padding=8&color=33b5e5%2C100&name=ic_icon_cdgx_on)
 * 加载框进度条
 	* [加载框] (https://github.com/Kaopiz/KProgressHUD)
-	* [Android的ProgressHUD多种加载效果：KProgressHUD] (http://www.open-open.com/lib/view/open1453091486323.html)
+	* [Material风格对话框] (https://github.com/afollestad/material-dialogs)
 	* [圆角button点击后变成加载button] (https://github.com/dmytrodanylyk/circular-progress-button)
 	* [水平进度条] (https://github.com/daimajia/NumberProgressBar)
 	* [进度条来显示加载图片的进度] (https://github.com/peng8350/LoadingProgress/blob/master/README_CN.md)
