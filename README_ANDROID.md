@@ -443,6 +443,7 @@
 	* [Android-Learning-Resources] (https://github.com/zhujun2730/Android-Learning-Resources)
 * [极客学院] (http://wiki.jikexueyuan.com/list/android/)
 * [git教程] (http://www.yiibai.com/git/home.html)
+* [GoogleSamples/android-architecture] (https://github.com/googlesamples/android-architecture)
 
 ### [大神、著名公司主页](#androidresource)	
 * [张鸿洋] (https://github.com/hongyangAndroid)
