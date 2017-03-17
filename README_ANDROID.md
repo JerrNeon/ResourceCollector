@@ -206,6 +206,7 @@
 * 与adapter有关
 	* [Android复杂的列表视图新写法] (https://github.com/drakeet/MultiType/blob/master/README.md)
 	* [RecyerView适配器封装] (https://github.com/CymChad/BaseRecyclerViewAdapterHelper)	
+	* [GitHub - hongyangAndroid/baseAdapter: Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。] (https://github.com/hongyangAndroid/baseAdapter)
 * 可拖拽的ListView
 	* [可拖拽listview基本使用技巧（DragSortListView） - forrey的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/forrey/article/details/41355457/)
 	* [ListView拖动（或长按拖动）子项item，更改位置，且可以左右滑删除子项item - u012658005的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/u012658005/article/details/44041235)
@@ -238,7 +239,7 @@
 	* [android流式布局：FlexboxLayout用法探析(一) - FightSeeker的专栏 - 博客频道 - CSDN.NET] (http://46aae4d1e2371e4aa769798941cef698.devproxy.yunshipei.com/tabolt/article/details/51799226)
 * tagFlowLayout(流式布局)
 	* [GitHub] (https://github.com/hongyangAndroid/FlowLayout)
-	* [GitHub - hongyangAndroid/baseAdapter: Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。] (https://github.com/hongyangAndroid/baseAdapter)
+* Hongyang	
 	* [神奇的Android Studio Template - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/51592043)
 	* [Android ORMLite 框架的入门用法 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/39121377)
 	* [Android屏幕适配姿势] (http://www.jianshu.com/p/5d5494dd6dbe)
