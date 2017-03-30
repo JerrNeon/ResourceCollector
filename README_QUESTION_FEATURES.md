@@ -12,7 +12,7 @@
 
 ***
 
-### [AndroidSupportDesign兼容库] (#android新特性问题及as) 	
+### [AndroidSupportDesign兼容库](#android新特性问题及as) 	
 * [Material Design UI Widgets - 张兴业的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/xyz_lmn/article/details/35644799)
 * [Android L中的RecyclerView 、CardView 、Palette的使用 - 张兴业的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/xyz_lmn/article/details/38735117)
 * Toolbar
@@ -43,7 +43,7 @@
 	* [UI-BottomNavigationBar-底部导航栏 - 简书](http://www.jianshu.com/p/134d7847a01e)
                 
 
-### [6.0] (#android新特性问题及as) 
+### [6.0](#android新特性问题及as) 
 * 权限
 	* [android 6.0权限全面详细分析和解决方案](http://blog.csdn.net/hudashi/article/details/50775180)
 	* [Android 6.0RunTime Permission完美解决方案](http://blog.csdn.net/u011068996/article/details/50602100)
@@ -56,7 +56,7 @@
 	* [RxPermissions源码解析](http://www.jianshu.com/p/c8a30200e6b2)
 	* [Android M 权限最佳实践](http://chen-wei.me/2016/11/10/android-permission-best-practice/)                
                 
-### [7.0+] (#android新特性问题及as) 
+### [7.0+](#android新特性问题及as) 
 * 7.0文件使用/7.1快捷方式              
 	* [Android7.0适配教程，心得 - 简书](http://www.jianshu.com/p/56b9fb319310)
 	* [实践](http://blog.feng.moe/2016/11/03/android-new-shortcut-api/)
@@ -65,7 +65,7 @@
 	* [如何在Android7.0系统下通过Intent安装apk | Alvin-一座小楼](http://www.czhzero.com/2016/12/21/how-to-install-apk-on-Android7-0/)
                 
 
-### [常见控件问题及属性介绍] (#android新特性问题及as) 
+### [常见控件问题及属性介绍](#android新特性问题及as) 
 * 软键盘               
 	* [【Android】android:windowSoftInputMode属性详解 - Rex.. - 博客园](http://www.cnblogs.com/rayray/p/3380917.html)
 	* [Android 爬坑之旅：软键盘挡住输入框问题的终极解决方案 - DiyCode](http://www.diycode.cc/topics/383)
@@ -93,7 +93,7 @@
 	* [Android性能优化的方方面面](http://www.jianshu.com/p/b3b09fa29f65)
 
 
-### [AndroidStudio] (#android新特性问题及as) 
+### [AndroidStudio](#android新特性问题及as) 
 * 配置             
 	* [Android](http://liukun.engineer/2016/04/10/Android-Studio-advanced-configuration/)
 	* [AndroidStudio入门之第三方引用 - 简书](http://www.jianshu.com/p/f33a1f413ab3)
@@ -127,7 +127,7 @@
 * 签名
 	* [Android Gradle signing 编译打包apk的几种办法](http://blog.csdn.net/ylbf_dev/article/details/52399083)
 
-### [适配] (#android新特性问题及as)
+### [适配](#android新特性问题及as)
 * autolayout适配
 	* [Android AutoLayout全新的适配方式 堪称适配终结者 - Hongyang - 博客频道 - CSDN.NET](http://blog.csdn.net/lmj623565791/article/details/49990941)
 	* [GitHub - hongyangAndroid/AndroidAutoLayout: Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。](https://github.com/hongyangAndroid/AndroidAutoLayout) 
@@ -136,7 +136,7 @@
 	* [Android 百分比布局库(percent-support-lib) 解析与扩展 - Hongyang - 博客频道 - CSDN.NET](http://blog.csdn.net/lmj623565791/article/details/46695347)
 
 
-### [学习知识] (#android新特性问题及as) 
+### [学习知识](#android新特性问题及as) 
 * Android手势以及MotionEvent
 	* [Android手势以及MotionEvent](http://blog.jiangtao.tech/2016/10/03/Android%E6%89%8B%E5%8A%BF%E4%BB%A5%E5%8F%8AMotionEvent/)
 * Framework
