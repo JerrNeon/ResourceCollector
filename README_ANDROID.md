@@ -26,7 +26,7 @@
 * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 	* [廖子尧](https://github.com/jeasonlzy)
 	* [OkGo，一个专注于让网络请求更简单的框架，与RxJava完美结合，比Retrofit更简单易用。 - 简书](http://www.jianshu.com/p/6aa5cb272514)
-* [OkHttp] (https://github.com/square/okhttp)
+* [OkHttp](https://github.com/square/okhttp)
 	* [源码解析文章](http://frodoking.github.io/2015/03/12/android-okhttp/)
 	* [拦截并记录所有的HTTP请求与响应](https://github.com/jgilfelt/chuck)
 	* [Bridge是一个简单但是强大的HTTP网络操作库。提供链式调用的API，为了最大的兼容性和最快的速度，用 Java/Android的URLConnection类实现](https://github.com/afollestad/bridge)
