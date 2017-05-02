@@ -153,7 +153,8 @@
 	* [Android自定义控件之日历控件 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0930/3538.html)
 	* [android WheelView时间选择器 - a541006的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/a541006/article/details/40212321)
 	* [Android自定义控件之日历控件 - Mr_dsw的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/mr_dsw/article/details/48755993)
-	
+* 双向SeekBar
+	*[android-range-seek-bar](https://github.com/anothem/android-range-seek-bar)	
 
 ### [仿IOS控件](#androidresource)	
 * 开关
