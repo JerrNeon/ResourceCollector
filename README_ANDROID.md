@@ -14,6 +14,7 @@
 * [自定义View系列](#自定义view系列)
 * [Activity和Fragment](#activity和fragment)
 * [工具类](#工具类)
+* [知识点](#知识点)
 * [动画](#动画)
 * [开发框架和开源项目](#开发框架和开源项目)
 * [第三方](#第三方)
@@ -339,8 +340,10 @@
 * dp和px互转
 	* [labs.rampinteractive.co.uk/android_dp_px_calculator/](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
 * Android流氓代码
-	* [Android流氓代码块(亲测可行）](http://blog.csdn.net/qq_22329521/article/details/52704661)               
+	* [Android流氓代码块(亲测可行）](http://blog.csdn.net/qq_22329521/article/details/52704661)       
 	
+### [知识点](#androidresource)	
+* [iOS/Android 微信及浏览器中唤起本地APP](http://blog.csdn.net/linshijun33/article/details/71429669)
 
 ### [动画](#androidresource)
 * lottie高级动画库	
