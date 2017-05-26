@@ -407,6 +407,7 @@
 * [shareSDK](https://github.com/MobClub/ThirdPartyLoginDemo)
 * [友盟](http://dev.umeng.com/social/android/quick-integration)
 * [诸葛IO,用户统计分析平台](http://help.zhugeio.com/hc/kb/article/113326/)
+* [异常及热更新、热修复](https://bugly.qq.com/v2/index)
 
 	
 ### [优质资源查找和学习site](#androidresource)	
