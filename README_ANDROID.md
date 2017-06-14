@@ -294,7 +294,8 @@
 	* [Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
 * TextView文字滚动效果
 	* [Android 文字自动滚动（跑马灯）效果的两种实现方法 - chenshi011的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/chenshi011/article/details/7792326)
-                
+* 图片阴影效果(https://github.com/yingLanNull/ShadowImageView)
+* 图形锁(https://github.com/aritraroy/PatternLockView)
 	
 ### [Activity和Fragment](#androidresource)	
 * 为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题
@@ -369,6 +370,7 @@
 	* [文章](http://www.jianshu.com/p/e497123652b5)
 * 图片->SVG->PATH
 	* [PathAnimView](https://github.com/mcxtzhang/PathAnimView)
+* [running-the-animation](https://github.com/willowtreeapps/spruce-android#running-the-animation)
 
 ### [开发框架和开源项目](#androidresource)
 * Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等	
@@ -386,6 +388,10 @@
 * 项目常用库
 	* [项目中用到的那些方便流行的库](http://www.jianshu.com/p/6db1a5e84d67)
 * [Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。OKHttp、UIL图片加载、ZXing二维码、沉浸状态栏、下载安装、自动缓存以及各种Base、Demo、UI、Util直接用。全新的手势，侧滑返回、全局](https://github.com/TommyLemon/Android-ZBLibrary#readme)
+* [AppMethodOrder 一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）](https://github.com/zjw-swun/AppMethodOrder)
+* [一个快速和易于使用的即插即用的动态主题引擎](https://github.com/afollestad/aesthetic)
+* [这是一种不使用 ViewHolder 来编写适配器的方法](https://github.com/MEiDIK/SlimAdapter)
+* [Chips 是 Material Design 中组件，他们被描述为：小却相对复杂的个体](https://github.com/pchmn/MaterialChipsInput)
 
 
 ### [第三方](#androidresource)
