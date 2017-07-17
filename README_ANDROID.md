@@ -320,6 +320,7 @@
 	* [Lazy](https://github.com/l123456789jy/Lazy)
 	* [AndroidUtils](https://github.com/WuXiaolong/AndroidUtils)
 	* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
+	* [CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary)
 * 判断App位于前台或者后台的6种方法	
 	* [AndroidProcess](https://github.com/wenmingvs/AndroidProcess)
 * 中国各大银行卡号查询CNBankCard	
