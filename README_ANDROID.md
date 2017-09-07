@@ -397,6 +397,7 @@
 
 ### [第三方](#androidresource)
 * [QQ](http://wiki.open.qq.com/wiki/创建并配置工程)
+* [QQ互联](http://wiki.connect.qq.com/%e7%89%b9%e6%ae%8a%e9%97%ae%e9%a2%98-top10)
 * [微信](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=1417751808&token=&lang=zh_CN)
 * [支付宝](https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7629140.0.0.d3bK7C&treeId=204&articleId=105296&docType=1)
 * [银联](https://open.unionpay.com/ajweb/help/file/techFile?productId=3)
