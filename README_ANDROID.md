@@ -16,6 +16,7 @@
 * [工具类](#工具类)
 * [知识点](#知识点)
 * [动画](#动画)
+* [网页相关](#网页相关)
 * [开发框架和开源项目](#开发框架和开源项目)
 * [第三方](#第三方)
 * [优质资源查找和学习site](#优质资源查找和学习site)
@@ -373,6 +374,9 @@
 * 图片->SVG->PATH
 	* [PathAnimView](https://github.com/mcxtzhang/PathAnimView)
 * [running-the-animation](https://github.com/willowtreeapps/spruce-android#running-the-animation)
+
+### [网页相关](#androidresource)
+* [DSBridge-Android](https://github.com/wendux/DSBridge-Android)
 
 ### [开发框架和开源项目](#androidresource)
 * Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等	
