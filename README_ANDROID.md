@@ -348,6 +348,7 @@
 	
 ### [知识点](#androidresource)	
 * [iOS/Android 微信及浏览器中唤起本地APP](http://blog.csdn.net/linshijun33/article/details/71429669)
+* [Android 架构组件](https://juejin.im/post/5a027bd451882572503bfb6f)
 
 ### [动画](#androidresource)
 * lottie高级动画库	
