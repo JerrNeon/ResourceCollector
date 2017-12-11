@@ -346,7 +346,7 @@
 * Android流氓代码
 	* [Android流氓代码块(亲测可行）](http://blog.csdn.net/qq_22329521/article/details/52704661)     
 * 计算农历节气
-	* [比较精确的计算农历节气的java源码](http://blog.csdn.net/qq_22329521/article/details/52704661)
+	* [比较精确的计算农历节气的java源码](http://blog.csdn.net/alex_15/article/details/63268764)
 	
 ### [知识点](#androidresource)	
 * [iOS/Android 微信及浏览器中唤起本地APP](http://blog.csdn.net/linshijun33/article/details/71429669)
