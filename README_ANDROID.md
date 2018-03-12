@@ -409,6 +409,7 @@
 * [QQ互联官网](https://connect.qq.com/index.html)
 * [微信](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=1417751808&token=&lang=zh_CN)
 * [支付宝](https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7629140.0.0.d3bK7C&treeId=204&articleId=105296&docType=1)
+* [花呗分期](https://docs.open.alipay.com/277/105952/)
 * [银联](https://open.unionpay.com/ajweb/help/file/techFile?productId=3)
 * [新浪微博](https://github.com/sinaweibosdk/weibo_android_sdk)
 * 百度地图 
