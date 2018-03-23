@@ -429,6 +429,8 @@
 * [异常及热更新、热修复](https://bugly.qq.com/v2/index)
 * [bug收集管理-bugtags](https://docs.bugtags.com/zh/start/integrate/index.html)
 * [百度统计](https://mtj.baidu.com/web/welcome/login)
+	* [jar包形式](https://mtj.baidu.com/web/help/article?id=76&type=0)
+	* [Gradle依赖形式](https://mtj.baidu.com/web/help/article?id=85&type=0)
 	
 ### [优质资源查找和学习site](#androidresource)	
 * 自定义View	
