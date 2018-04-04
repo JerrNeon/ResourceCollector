@@ -402,7 +402,7 @@
 * [一个快速和易于使用的即插即用的动态主题引擎](https://github.com/afollestad/aesthetic)
 * [这是一种不使用 ViewHolder 来编写适配器的方法](https://github.com/MEiDIK/SlimAdapter)
 * [Chips 是 Material Design 中组件，他们被描述为：小却相对复杂的个体](https://github.com/pchmn/MaterialChipsInput)
-* [快应用开发文档]（https://doc.quickapp.cn/）
+* [快应用开发文档](https://doc.quickapp.cn/)
 
 
 ### [第三方](#androidresource)
