@@ -155,9 +155,9 @@
 	
 
 ### [Log颜色](#android新特性问题及as)
-Assert:   #AA66CC
-Debug: 	  #33B5E5
-Error: 	  #FF4444
-Info: 	  #99CC00
-Verbose:  #FFFFFF
-Warning:  #FFBB33
+	Assert:   #AA66CC
+	Debug: 	  #33B5E5
+	Error: 	  #FF4444
+	Info: 	  #99CC00
+	Verbose:  #FFFFFF
+	Warning:  #FFBB33
