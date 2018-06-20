@@ -9,6 +9,7 @@
 * [AndroidStudio](#androidstudio)
 * [适配](#适配)
 * [学习知识](#学习知识)
+* [Log颜色](#log颜色)
 
 ***
 
@@ -151,3 +152,12 @@
 * Material design规范
 	* [Android Design Support Library使用](http://mp.weixin.qq.com/s?__biz=MzI4MTQyNDg3Mg==&mid=2247483752&idx=1&sn=e5a12a53d12dbe80c27ae78af9660b12&chksm=eba827efdcdfaef999ac120869fb3b32508d76f883d1c9b2701c840834a9feef53d0ed9669a3#rd)
 	* [Android Material风格的Dialog的使用 - 简书](http://www.jianshu.com/p/6caffdbcd5db)
+	
+
+### [Log颜色](#android新特性问题及as)
+Assert:   #AA66CC
+Debug: 	  #33B5E5
+Error: 	  #FF4444
+Info: 	  #99CC00
+Verbose:  #FFFFFF
+Warning:  #FFBB33
