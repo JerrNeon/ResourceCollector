@@ -355,6 +355,7 @@
 * [Android 架构组件](https://juejin.im/post/5a027bd451882572503bfb6f)
 * [Android进程保活、常驻服务](https://github.com/Marswin/MarsDaemon)
 * [高效 保活长连接：手把手教你实现 自适应的心跳保活机制](https://blog.csdn.net/carson_ho/article/details/79522975)
+* [Android M新特性Doze and App Standby模式详解——影响后台网络、闹钟等功能](https://zhuanlan.zhihu.com/p/20323263#!)
 
 ### [动画](#androidresource)
 * lottie高级动画库	
