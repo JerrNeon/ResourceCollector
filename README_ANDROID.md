@@ -408,6 +408,7 @@
 * [这是一种不使用 ViewHolder 来编写适配器的方法](https://github.com/MEiDIK/SlimAdapter)
 * [Chips 是 Material Design 中组件，他们被描述为：小却相对复杂的个体](https://github.com/pchmn/MaterialChipsInput)
 * [快应用开发文档](https://doc.quickapp.cn/)
+* [Android 服务保活/常驻 (Android service daemon using JobScheduler)](https://github.com/xingda920813/HelloDaemon)
 
 
 ### [第三方](#androidresource)
