@@ -161,3 +161,10 @@
 	Info: 	  #99CC00
 	Verbose:  #FFFFFF
 	Warning:  #FFBB33
+	
+    局部变量颜色设置：
+    File | Settings 打开设置
+    选择 Editor | Color Scheme | Java
+    展开下方的 Variables 选择 Local variable
+    设置右侧的 Foreground 颜色 #68B5EE
+
