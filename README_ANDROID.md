@@ -357,6 +357,8 @@
 * [高效 保活长连接：手把手教你实现 自适应的心跳保活机制](https://blog.csdn.net/carson_ho/article/details/79522975)
 * [Android M新特性Doze and App Standby模式详解——影响后台网络、闹钟等功能](https://zhuanlan.zhihu.com/p/20323263#!)
 * [Android蓝牙连接打印机设备](https://github.com/4dcity/BluetoothPrinterDemo)
+* [金融类的自定义View,基金走势图、分时图、蜡烛图、各种指标](https://github.com/Tophold/FinancialCustomerView)
+* [一个方便为Android View添加自然的阴影的库](https://github.com/zhengcx/ShadowHelper)
 
 ### [动画](#androidresource)
 * lottie高级动画库	
