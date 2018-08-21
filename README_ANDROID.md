@@ -504,5 +504,8 @@
 * [Gravit Designer-矢量跨平台免费设计工具 ](https://www.designer.io/#hero)
 * [avocode](https://avocode.com/)
 * [lunacy](https://icons8.com/lunacy)
+* [Material Design](https://material.io/)
+* [Material Design常用设备尺寸信息](https://material.io/tools/devices/)
+* [Material Design中文网](http://design.1sters.com/)
 
 	
