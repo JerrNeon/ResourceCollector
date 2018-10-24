@@ -359,6 +359,7 @@
 * [Android蓝牙连接打印机设备](https://github.com/4dcity/BluetoothPrinterDemo)
 * [金融类的自定义View,基金走势图、分时图、蜡烛图、各种指标](https://github.com/Tophold/FinancialCustomerView)
 * [一个方便为Android View添加自然的阴影的库](https://github.com/zhengcx/ShadowHelper)
+* [RecyclerView库中的遗珠-实用但不易发现的一些工具使用](https://blog.csdn.net/qq_17766199/article/details/83147483)
 
 ### [动画](#androidresource)
 * lottie高级动画库	
