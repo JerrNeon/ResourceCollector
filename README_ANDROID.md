@@ -412,7 +412,13 @@
 * [Chips 是 Material Design 中组件，他们被描述为：小却相对复杂的个体](https://github.com/pchmn/MaterialChipsInput)
 * [快应用开发文档](https://doc.quickapp.cn/)
 * [Android 服务保活/常驻 (Android service daemon using JobScheduler)](https://github.com/xingda920813/HelloDaemon)
-
+* 标签&贴纸
+	* [贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签](https://github.com/Skykai521/StickerCamera)
+	* [仿nice图片上打标签控件](https://github.com/Bigkoo/Android-PictureTagView)
+	* [仿nice标签](https://github.com/nicewarm/NiceTags)
+	* [高仿小红书标签添加功能 1.随点击处添加标签 2.计算标签位置 3.可将标签位置还原渲染至不同屏幕尺寸 4.拖拽删除标签](https://github.com/GIVEWAYTO/TagImageView)
+	* [图片打标签Demo，标签支持拖曳移动、可删除](https://github.com/hjq/ImageTag)
+	* [Taging and Sticking ~ 标签&贴纸](https://github.com/wangpeiyuan/ImageTagView)
 
 ### [第三方](#androidresource)
 * [QQ](http://wiki.open.qq.com/wiki/创建并配置工程)
