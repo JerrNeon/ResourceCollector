@@ -196,6 +196,13 @@
 	* [googleVR](https://github.com/googlevr/gvr-android-sdk)
 	* [图片](https://github.com/linglongxin24/VRDevelopImage)
 	* [视屏](https://github.com/linglongxin24/VRDevelopVideo)
+* 视频相关
+	* [七牛云视频处理](https://developer.qiniu.com/pili/sdk/3734/android-short-video-sdk)
+	* [使用自带的MediaCodec 框架进行本地视频压缩](https://github.com/tangpeng/VideoCompressor)
+	* [使用FFmpeg框架进行本地视频压缩](https://github.com/tangpeng/FFmpegDemo)
+	* [使用Android原生的MediaCodec实现视频压缩、剪辑、混音、快慢放及倒流的功能](https://github.com/yellowcath/VideoProcessor)
+	* [分辨率、码率、帧率介绍](http://www.lighterra.com/papers/videoencodingh264/)
+	* [图像、视频处理、压缩介绍](https://github.com/guoxiaoxing/phoenix/blob/master/doc/Android%E5%B9%B3%E5%8F%B0%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E6%96%B9%E6%A1%88.md)
 
 ### [RecyerView、ListView、GridView、ScrollView](#androidresource)	
 * Recycler和ViewPager结合
