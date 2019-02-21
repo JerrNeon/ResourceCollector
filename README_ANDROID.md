@@ -205,6 +205,7 @@
 	* [图像、视频处理、压缩介绍](https://github.com/guoxiaoxing/phoenix/blob/master/doc/Android%E5%B9%B3%E5%8F%B0%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E6%96%B9%E6%A1%88.md)
 	* [利用ffmpeg进行视频和音频的裁剪、转码、压缩处理](https://github.com/bhuvnesh123/FFmpeg-Video-Editor-Android)
 	* [利用ffmpeg进行视频和音频的裁剪、转码、压缩处理文档](https://androidadvanced.com/2017/03/17/ffmpeg-video-editor/)
+	* [使用Android原生的MediaCodec实现视频压缩、剪辑、混音、快慢放及倒流的功能-较好](https://github.com/yellowcath/VideoProcessor)
 
 ### [RecyerView、ListView、GridView、ScrollView](#androidresource)	
 * Recycler和ViewPager结合
