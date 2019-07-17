@@ -72,6 +72,7 @@
 		* [文章](http://www.tuicool.com/articles/biQ3Anm)
 	* [greenDAO](https://github.com/greenrobot/greenDAO)
 	* [realm不基于Sqlite](https://github.com/realm/realm-java)
+	* [谷歌官方Room](https://www.jianshu.com/p/3e358eb9ac43)
 * 缓存
 	* [RxCache](https://github.com/VictorAlbertos/RxCache)
 	* [异步加载和缓存库](https://github.com/NYTimes/Store)
