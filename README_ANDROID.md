@@ -208,6 +208,7 @@
 	* [利用ffmpeg进行视频和音频的裁剪、转码、压缩处理文档](https://androidadvanced.com/2017/03/17/ffmpeg-video-editor/)
 	* [使用Android原生的MediaCodec实现视频压缩、剪辑、混音、快慢放及倒流的功能-较好](https://github.com/yellowcath/VideoProcessor)
 	* [分辨率码率计算逻辑](https://www.zhihu.com/question/49460691)
+	* [文件mime-type列表](https://www.freeformatter.com/mime-types-list.html#mime-types-list)
 
 ### [RecyerView、ListView、GridView、ScrollView](#androidresource)	
 * Recycler和ViewPager结合
