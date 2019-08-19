@@ -9,3 +9,4 @@
 * [插件](https://pub.dev/flutter)
 * [社区](https://flutterevents.com/)
 * [App](https://itsallwidgets.com/)
+* [学习技术博客](http://www.jspang.com/)
