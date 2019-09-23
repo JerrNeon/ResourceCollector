@@ -130,10 +130,11 @@ androidx.constraintlayout.widget.Group
 ```
 androidx.constraintlayout.widget.Guideline
 ```
+
 #### android.support.v7.widget.Toolbar
-'''
+```
 androidx.appcompat.widget.Toolbar
-'''
+```
 
 #### android.support.design.widget.CoordinatorLayout
 ```
