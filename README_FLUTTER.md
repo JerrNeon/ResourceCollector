@@ -23,3 +23,7 @@
 * [图片加载](https://github.com/fluttercandies/extended_image)
 * [shared_preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences)
 * [图片选择](https://github.com/flutter/plugins/blob/master/packages/image_picker/README.md)
+* [通过Json文件生成Dart Model类](https://github.com/flutterchina/json_model)
+* [通知&状态更新](https://github.com/rrousselGit/provider)
+* [国际化](https://github.com/dart-lang/intl)
+* [国际化arb文件生成](https://github.com/dart-lang/intl_translation)
