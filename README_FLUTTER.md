@@ -27,3 +27,5 @@
 * [通知&状态更新](https://github.com/rrousselGit/provider)
 * [国际化](https://github.com/dart-lang/intl)
 * [国际化arb文件生成](https://github.com/dart-lang/intl_translation)
+* [图片加载](https://github.com/renefloor/flutter_cached_network_image)
+* [Toast显示](https://github.com/PonnamKarthik/FlutterToast)
