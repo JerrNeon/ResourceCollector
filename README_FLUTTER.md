@@ -30,3 +30,5 @@
 * [图片加载-flutter_cached_network_image](https://github.com/renefloor/flutter_cached_network_image)
 * [Toast显示-FlutterToast](https://github.com/PonnamKarthik/FlutterToast)
 * [状态栏-flutter_statusbarcolor](https://github.com/mchome/flutter_statusbarcolor)
+* [好用的富文本库，支持图片，自定义背景效果，自定义文本溢出效果-extended text](https://github.com/fluttercandies/Extended_Text)
+* [好用的输入框，支持图片，自定义背景效果效果-extended_text_field](https://github.com/fluttercandies/extended_text_field)
