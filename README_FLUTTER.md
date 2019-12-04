@@ -33,3 +33,4 @@
 * [好用的富文本库，支持图片，自定义背景效果，自定义文本溢出效果-extended text](https://github.com/fluttercandies/Extended_Text)
 * [好用的输入框，支持图片，自定义背景效果效果-extended_text_field](https://github.com/fluttercandies/extended_text_field)
 * [瀑布流-flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view)
+* [进度条-flutter_spinkit](https://github.com/jogboms/flutter_spinkit)
