@@ -40,3 +40,4 @@
 * [audioplayers](https://github.com/luanpotter/audioplayers)
 * [flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin)
 * [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler)
+* [flutter_html](https://github.com/Sub6Resources/flutter_html)
