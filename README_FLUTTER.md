@@ -35,3 +35,7 @@
 * [瀑布流-flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view)
 * [进度条-flutter_spinkit](https://github.com/jogboms/flutter_spinkit)
 * [日志打印-logger](https://github.com/leisim/logger)
+* [rxdart](https://github.com/ReactiveX/rxdart)
+* [video_player](https://pub.dev/packages/video_player#-readme-tab-)
+* [audioplayers](https://github.com/luanpotter/audioplayers)
+* [flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin)
