@@ -39,3 +39,4 @@
 * [video_player](https://pub.dev/packages/video_player#-readme-tab-)
 * [audioplayers](https://github.com/luanpotter/audioplayers)
 * [flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin)
+* [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler)
