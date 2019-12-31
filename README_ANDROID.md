@@ -434,6 +434,7 @@
 	* [高仿小红书标签添加功能 1.随点击处添加标签 2.计算标签位置 3.可将标签位置还原渲染至不同屏幕尺寸 4.拖拽删除标签](https://github.com/GIVEWAYTO/TagImageView)
 	* [图片打标签Demo，标签支持拖曳移动、可删除](https://github.com/hjq/ImageTag)
 	* [Taging and Sticking ~ 标签&贴纸](https://github.com/wangpeiyuan/ImageTagView)
+* [小红书多图剪裁+微信图片选择器+大图预览+图片剪裁(支持圆形剪裁和镂空剪裁)](https://github.com/yangpeixing/YImagePicker?utm_source=androidweekly.io&utm_medium=website)
 
 ### [第三方](#androidresource)
 * [QQ](http://wiki.open.qq.com/wiki/创建并配置工程)
