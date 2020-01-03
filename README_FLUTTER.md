@@ -40,6 +40,5 @@
 * [audioplayers](https://github.com/luanpotter/audioplayers)
 * [flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin)
 * [flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
-* [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler)
 * [flutter_html](https://github.com/Sub6Resources/flutter_html)
 * [工具类-common_utils](https://github.com/Sky24n/common_utils)
