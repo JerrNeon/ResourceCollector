@@ -510,6 +510,7 @@
 * [极客学院](http://wiki.jikexueyuan.com/list/android/)
 * [git教程](http://www.yiibai.com/git/home.html)
 * [GoogleSamples/android-architecture](https://github.com/googlesamples/android-architecture)
+* [Android 进阶路线知识图谱+干货资料收集](https://github.com/feelschaotic/AndroidKnowledgeSystem)
 
 ### [大神、著名公司主页](#androidresource)	
 * [张鸿洋](https://github.com/hongyangAndroid)
