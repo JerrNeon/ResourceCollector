@@ -435,6 +435,7 @@
 	* [图片打标签Demo，标签支持拖曳移动、可删除](https://github.com/hjq/ImageTag)
 	* [Taging and Sticking ~ 标签&贴纸](https://github.com/wangpeiyuan/ImageTagView)
 * [小红书多图剪裁+微信图片选择器+大图预览+图片剪裁(支持圆形剪裁和镂空剪裁)](https://github.com/yangpeixing/YImagePicker?utm_source=androidweekly.io&utm_medium=website)
+* [A quick and easy database viewer and manager library for your Room databases](https://github.com/wajahatkarim3/RoomExplorer?utm_source=androidweekly.io&utm_medium=website)
 
 ### [第三方](#androidresource)
 * [QQ](http://wiki.open.qq.com/wiki/创建并配置工程)
