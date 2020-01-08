@@ -42,3 +42,4 @@
 * [flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
 * [flutter_html](https://github.com/Sub6Resources/flutter_html)
 * [工具类-common_utils](https://github.com/Sky24n/common_utils)
+* [sqflite](https://github.com/tekartik/sqflite)
