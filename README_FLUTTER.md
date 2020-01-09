@@ -43,3 +43,5 @@
 * [flutter_html](https://github.com/Sub6Resources/flutter_html)
 * [工具类-common_utils](https://github.com/Sky24n/common_utils)
 * [sqflite](https://github.com/tekartik/sqflite)
+* [flutter_full_pdf_viewer](https://github.com/albo1337/flutter_full_pdf_viewer)
+* [控制横竖屏控件auto_orientation](https://pub.flutter-io.cn/packages/auto_orientation)
