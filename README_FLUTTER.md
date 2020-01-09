@@ -45,3 +45,5 @@
 * [sqflite](https://github.com/tekartik/sqflite)
 * [flutter_full_pdf_viewer](https://github.com/albo1337/flutter_full_pdf_viewer)
 * [控制横竖屏控件auto_orientation](https://pub.flutter-io.cn/packages/auto_orientation)
+* [微信支付Fluwx](https://github.com/OpenFlutter/fluwx)
+* (支付宝支付tobias)(https://github.com/OpenFlutter/tobias)
