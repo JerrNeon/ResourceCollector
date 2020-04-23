@@ -311,8 +311,8 @@
 	* [Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
 * TextView文字滚动效果
 	* [Android 文字自动滚动（跑马灯）效果的两种实现方法 - chenshi011的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/chenshi011/article/details/7792326)
-* 图片阴影效果(https://github.com/yingLanNull/ShadowImageView)
-* 图形锁(https://github.com/aritraroy/PatternLockView)
+* [图片阴影效果](https://github.com/yingLanNull/ShadowImageView)
+* [图形锁](https://github.com/aritraroy/PatternLockView)
 * [喜马拉雅播放进度条](https://github.com/hiongyend/CustomSeekBar)
 	
 ### [Activity和Fragment](#androidresource)	
