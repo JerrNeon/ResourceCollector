@@ -314,6 +314,7 @@
 * [图片阴影效果](https://github.com/yingLanNull/ShadowImageView)
 * [图形锁](https://github.com/aritraroy/PatternLockView)
 * [喜马拉雅播放进度条](https://github.com/hiongyend/CustomSeekBar)
+* [喜马拉雅音乐播放动画-频谱](https://github.com/Luffy0317/MusicPlayView)
 	
 ### [Activity和Fragment](#androidresource)	
 * 为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题
