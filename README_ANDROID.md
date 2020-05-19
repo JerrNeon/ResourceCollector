@@ -377,6 +377,7 @@
 * [RecyclerView库中的遗珠-实用但不易发现的一些工具使用](https://blog.csdn.net/qq_17766199/article/details/83147483)
 * [Dialog中输入法的显示参考库](https://github.com/limuyang2/LDialog)
 * [Dialog中输入法的隐藏做法](https://blog.csdn.net/a77979744/article/details/54289909)
+* [Android10.0通知Notification的使用这一篇就够了](https://my.oschina.net/u/4353713/blog/4254109/print)
 
 ### [动画](#androidresource)
 * lottie高级动画库	
