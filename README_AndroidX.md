@@ -74,31 +74,37 @@ androidx.appcompat.app.AppCompatActivity
 ```
 
 #### androidx.core.app.Fragment
+#### android.support.v4.app.Fragment
 ```
 androidx.fragment.app.Fragment
 ```
 
 #### androidx.core.app.FragmentManager
+#### android.support.v4.app.FragmentManager
 ```
 androidx.fragment.app.FragmentManager
 ```
 
 #### androidx.core.app.FragmentTransaction
+#### android.support.v4.app.FragmentTransaction
 ```
 androidx.fragment.app.FragmentTransaction
 ```
 
 #### androidx.core.view.PagerAdapter
+#### android.support.v4.app.PagerAdapter
 ```
 androidx.viewpager.widget.PagerAdapter
 ```
 
 #### androidx.core.app.FragmentPagerAdapter
+#### android.support.v4.app.FragmentPagerAdapter
 ```
 androidx.fragment.app.FragmentPagerAdapter
 ```
 
 #### androidx.core.app.FragmentStatePagerAdapter
+#### android.support.v4.app.FragmentStatePagerAdapter
 ```
 androidx.fragment.app.FragmentStatePagerAdapter
 ```
@@ -109,8 +115,19 @@ com.google.android.material.tabs.TabLayout
 ```
 
 #### androidx.core.view.ViewPager
+#### android.support.v4.view.ViewPager
 ```
 androidx.viewpager.widget.ViewPager
+```
+
+#### android.support.v4.widget.NestedScrollView
+```
+androidx.core.widget.NestedScrollView
+```
+
+#### android.support.v4.content.FileProvider
+```
+androidx.core.content.FileProvider
 ```
 
 #### androidx.constraintlayout.ConstraintLayout
