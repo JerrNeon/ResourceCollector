@@ -315,6 +315,8 @@
 * [图形锁](https://github.com/aritraroy/PatternLockView)
 * [喜马拉雅播放进度条](https://github.com/hiongyend/CustomSeekBar)
 * [喜马拉雅音乐播放动画-频谱](https://github.com/Luffy0317/MusicPlayView)
+* [雪花飘落效果](https://github.com/DingMouRen/FallingView)
+* [模拟雪花、雨滴、金币等物体样式的飘落效果](https://github.com/AnliaLee/FallingView)
 	
 ### [Activity和Fragment](#androidresource)	
 * 为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题
