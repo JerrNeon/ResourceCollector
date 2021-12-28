@@ -517,6 +517,7 @@
 * [git教程](http://www.yiibai.com/git/home.html)
 * [GoogleSamples/android-architecture](https://github.com/googlesamples/android-architecture)
 * [Android 进阶路线知识图谱+干货资料收集](https://github.com/feelschaotic/AndroidKnowledgeSystem)
+* [Android 设备唯一标识（AndroidID，OAID等 ）](https://blog.csdn.net/weixin_42600398/article/details/117984064)
 
 ### [大神、著名公司主页](#androidresource)	
 * [张鸿洋](https://github.com/hongyangAndroid)
