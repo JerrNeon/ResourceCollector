@@ -1,7 +1,3 @@
-        一文读懂Android进程及TCP动态心跳保活 - xiaxueliang - 博客园          var currentBlogId = 150428; var currentBlogApp = 'xiaxveliang'; var isLogined = false; var isBlogOwner = false; var skinName = 'CodingLife'; var visitorUserId = ''; var hasCustomScript = false; try { if (hasCustomScript && document.referrer && document.referrer.indexOf('baidu.com') >= 0) { Object.defineProperty(document, 'referrer', { value: '' }); Object.defineProperty(Document.prototype, 'referrer', { get: function(){ return ''; } }); } } catch(error) { } window.cb\_enable\_mathjax = false; window.mathEngine = 0; window.codeHighlightEngine = 1; window.enableCodeLineNumber = false; window.codeHighlightTheme = 'cnblogs'; window.darkModeCodeHighlightTheme = 'vs2015'; window.isDarkCodeHighlightTheme = false; window.isDarkModeCodeHighlightThemeDark = true; window.isDisableCodeHighlighter = false; window.enableCodeThemeTypeFollowSystem = false; var currentPostDateAdded = '2021-10-29 08:28';
-
-loadBlogStats();
-
 [一文读懂Android进程及TCP动态心跳保活](https://www.cnblogs.com/xiaxveliang/p/15478580.html)
 ==============================================================================
 
@@ -576,5 +572,3 @@ successHeart、curHeart为我们要探测的数据变量。
 
 \=== THE END ===
 ----------------
-
- window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); var kv = getGACustom(); if (kv) { gtag('set', kv); } gtag('config', 'UA-476124-1');
